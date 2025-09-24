@@ -1,5 +1,7 @@
-﻿### Komunizem vedno vodi v nasilje
+﻿## Komunizem vedno vodi v nasilje
 
+
+![komunizem](https://bluzimir.github.io/karavla/srp_in_kladivo.png)
 #### Zakaj je nasilje skoraj vedno prisotno?
 
 -   **Marksistična teorija** predvideva **razredni boj**, kar pomeni odpravo obstoječega reda , pogosto z  
