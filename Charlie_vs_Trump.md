@@ -1,4 +1,4 @@
-﻿## Med odpuščanjem in maščevanjem — Charlie Kirk in Donald Trump
+﻿## Med odpuščanjem in maščevanjem — Charlie Kirk proti Donaldu Trumpu
 Edvard G.
 ![enter image description here](https://bluzimir.github.io/karavla/Karli_vs_Trump.png)
 
