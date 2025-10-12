@@ -18,4 +18,5 @@ ki ni imel nobene zveze s spopadi.
 Prosim, delite to objavo, da svet izve,
 kaj se dogaja. Ne gre za politiko – gre za preživetje."
 ```
-
+---
+![enter image description here](https://bluzimir.github.io/karavla/poboji_hamas.png)
