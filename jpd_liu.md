@@ -1,4 +1,5 @@
 ﻿#  Kdo je bil prvi in najdlje v postelji s Hitlerjem
+Edvard G.
 
 <img src="https://www2.arnes.si/~egrmad/gibanje.eu/za_slovenijo/who_was_the_first.png" width="90%" height="600">
 
