@@ -3,6 +3,8 @@
 
 ![](https://www2.arnes.si/~egrmad/gibanje.eu/slovenija/predlog_volitev_slovenija.png )
 
+### edvard g.
+
 # Konec dvomov v rezultate?
 ## Kako z blockchainom varujemo našo volilno glasovnico
 
