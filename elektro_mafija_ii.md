@@ -1,4 +1,5 @@
-﻿Rado Pezdir v svojih zadnjih raziskavah in javnih nastopih (zlasti v okviru parlamentarnih preiskovalnih komisij) vzpostavlja neposredno linijo med **arhivskimi dokumenti Udbe** iz 70. in 80. let ter **modernimi bančnimi izpiski**, ki se nanašajo na poslovanje podjetja GEN-I na Balkanu.
+﻿**Rado Pezdir**,
+ ( avtor knjige "Vzporedni mehanizem", po katerem je posnet tudi film https://www.youtube.com/watch?v=JKQNPO7d-Uc  ) v svojih zadnjih raziskavah in javnih nastopih (zlasti v okviru parlamentarnih preiskovalnih komisij) vzpostavlja neposredno linijo med **arhivskimi dokumenti Udbe** iz 70. in 80. let ter **modernimi bančnimi izpiski**, ki se nanašajo na poslovanje podjetja GEN-I na Balkanu.
 
 Njegova teza je, da se "vzporedni mehanizem" ni nikoli ustavil, temveč je le zamenjal tehnologijo in produkte – namesto tihotapljenja cigaret in kave danes uporablja trgovanje z električno energijo.
 
