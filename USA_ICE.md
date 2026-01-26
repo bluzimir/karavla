@@ -1,7 +1,14 @@
 ﻿### HAMAS RTV Slovenija je pripravila prispevek za ponedeljek nevreden novinarstva, predvsem pa si ne zasluži plačevanja RTV prispevka, ker ne informira ampak deformira ljudi s svojim pristranskim poročanjem.
 
+[Zgodba hrvaškega državljana, ki ga je ICE po več kot 30 letih izgnal iz ZDA - RTV SLO](https://www.rtvslo.si/svet/evropa/zgodba-hrvaskega-drzavljana-ki-ga-je-ice-po-vec-kot-30-letih-izgnal-iz-zda/771337)
+
+
  Edvard G![](https://raw.githubusercontent.com/bluzimir/karavla/e67c225ac1313f72a8920d19e8db1583b62fead2/aktivist_prot_ice_pripadniku.png)
 Aktivist proti pripadniku ICE:  " You are fucking NACI"
+
+[![Klikni za ogled videa](https://raw.githubusercontent.com/bluzimir/karavla/d3a8cde0eadc6bd05617ae421af9a069a3fc9f58/Karol_Levit_o_incidentu.png)](https://lab.nlzoh.si/s/9ei5BE3LCNSp8tW?dir=/&editing=false&openfile=true)
+Carol Lewit na novinarski konferenci bele hiše
+
 
 Pripravil sem  **nepristransko poročilo**, ki povzema dejansko stanje ameriške imigracijske politike pod obema administracijama, vlogo ICE ter družbene odzive.  
 Namen takšnega poročila je **opisati dejstva**, ne zagovarjati ene ali druge politične strani.
