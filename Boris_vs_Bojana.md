@@ -1,6 +1,9 @@
 ﻿
 ### Dialog: Med kladivom davkov in nakovalom birokracije
 
+![](https://raw.githubusercontent.com/bluzimir/karavla/refs/heads/main/Boris_vs_Bojana_2.png)
+
+
 **Boris**: Veš, **Bojana**, ko gledam svojo plačilno listo, me vsakič znova zmrazi. Govorimo o "blaginji", a država mi pobere skoraj polovico tistega, kar ustvarim, še preden denar sploh vidim. Zato me ta ideja – radikalna olajšava, recimo 18.000 evrov letno, da ljudje zares zadihajo – tako privlači. To ni več ekonomsko vprašanje, to je vprašanje dostojanstva. Zakaj bi država obdavčevala tisto, kar potrebujem za golo preživetje?
 
 **Bojana**: Razumem to frustracijo, **Boris**. Slovenija ima resnično toksično mešanico visoke obdavčitve dela in regresivnih fiksnih prispevkov, ki dušijo srednji razred in tiste z nižjimi dohodki. Tvoj predlog o 18.000 evrih olajšave je v bistvu krik po tem, da se delo spet splača. Ampak, če sva iskrena, to ustvari ogromno luknjo v proračunu. Milijardno luknjo. Kdo bo plačal šole, bolnišnice, ceste?
