@@ -9,10 +9,13 @@ Dobrodošli v osrednji dokumentaciji analitične preiskave e-poštne koresponden
 
 Celotna analiza je razdeljena na dva specializirana dokumenta, ki sta medsebojno povezana:
 
-1. 📄 **[Poročilo o sporočilih Borisa in ruski propagandi](porocilo_propaganda_boris.md)**  
+1. 📄 **[Poročilo o sporočilih Borisa in ruski propagandi](porocilo_propaganda_boris.md)** *(spletni ogled: [bluzimir.github.io/karavla/porocilo_propaganda_boris](https://bluzimir.github.io/karavla/porocilo_propaganda_boris))*  
    *Pregled 11 prispelih sporočil pošiljatelja Boris, analiza posredovanih gradiv (članek tržaškega občinskega svetnika Stefana, slikovna priloga paktov) ter sistematična primerjava z uradnimi narativi Kremlja z odstotkovno oceno skladnosti.*
-2. 📄 **[Poročilo o odgovorih Edvarda in zgodovinskih dejstvih](porocilo_odgovori_edvard.md)**  
+2. 📄 **[Poročilo o odgovorih Edvarda in zgodovinskih dejstvih](porocilo_odgovori_edvard.md)** *(spletni ogled: [bluzimir.github.io/karavla/porocilo_odgovori_edvard](https://bluzimir.github.io/karavla/porocilo_odgovori_edvard))*  
    *Pregled 7 odgovorov pošiljatelja Edvard, faktografsko preverjanje ob primarnih virih in mednarodnih pogodbah ter ocena skladnosti s splošno sprejetim sodobnim zgodovinopisjem.*
+
+> 🌐 **Spletni ogled celotne dokumentacije (GitHub Pages):**  
+> **[https://bluzimir.github.io/karavla/](https://bluzimir.github.io/karavla/)**
 
 ---
 

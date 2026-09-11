@@ -1,0 +1,9 @@
+title: "Analiza e-poštne korespondence: Boris in Edvard"
+description: "Primerjalna študija ruske vojne propagande, zgodovinskih dejstev in argumentacijske integritete (september 2026)"
+theme: jekyll-theme-cayman
+permalink: pretty
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
