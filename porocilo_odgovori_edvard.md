@@ -27,7 +27,7 @@ V analiziranem obdobju je Edvard poslal **7 vsebinskih odgovorov**:
 
 ### Sporočilo 1: Odgovor na delitev članka o SCO / BRICS
 * **Datum in čas:** Ponedeljek, 7. september 2026, 06:54 CEST
-* **Prejemniki:** Darinka, Boris, dopisna skupina
+* **Prejemniki:** Boris, Jernej
 * **Besedilo:**
   > *»samo tole bom tukaj pustil. A bi si želeli biti v družbi avtokratskih držav, ki zatirajo svoboščine. lp Edvard«*
 * **Kontekst:** Odziv na navdušenje nad povezovanjem z državami Šanghajske organizacije za sodelovanje (SCO - Kitajska, Rusija, Iran). Edvard odpira temeljno vrednotno vprašanje človekovih pravic in demokratičnih svoboščin v avtokratskih režimih.

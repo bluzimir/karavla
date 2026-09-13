@@ -16,7 +16,7 @@ V obdobju od 1. septembra 2026 do 11. septembra 2026 je bilo v poštnem predalu 
 
 | Zap. št. | ID sporočila | Datum in ura (CEST) | Zadeva (Subject) | Prejemniki / CC | Priloge | Kratek opis vsebine |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1** | `55029` | 7. 9. 2026, 10:35 | `RE:` | Za: Edvard, Darinka<br>Kp: 9 oseb (Radovan, Boris Š., Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana) | Brez | Napad na zahodno demokracijo; volitve v Saški-Anhalt; Nemčija kot »ameriška kolonija«; mahanje z ruskimi zastavami. |
+| **1** | `55029` | 7. 9. 2026, 10:35 | `RE:` | Za: Edvard, Jernej | Brez | Napad na zahodno demokracijo; volitve v Saški-Anhalt; Nemčija kot »ameriška kolonija«; mahanje z ruskimi zastavami. |
 | **2** | `55102` | 9. 9. 2026, 09:54 | `RE:` | Za: Edvard<br>Kp: 9 oseb | Brez | Zagovor stranke AfD; očitki Kijevu in beguncem; poziv k nakupu poceni ruskega plina; zavezniško bombardiranje Nordhausna 1945; britanski imperializem. |
 | **3** | `55147` | 9. 9. 2026, 20:39 | `RE:` | Za: Edvard | Brez | Kratek uvodni nagovor (posredovana prejšnja razprava). |
 | **4** | `55151` | 9. 9. 2026, 20:51 | `RE:` | Za: Edvard<br>Kp: 9 oseb | [`Hiteljevi pakti.jpg`](priloge/Hiteljevi%20pakti.jpg) | Zagovor pakta Molotov-Ribbentrop; trditev, da so Angleži večji zločinci od nacistov; seznam evropskih sporazumov s Hitlerjem. |
@@ -24,7 +24,7 @@ V obdobju od 1. septembra 2026 do 11. septembra 2026 je bilo v poštnem predalu 
 | **6** | `55156` | 9. 9. 2026, 22:24 | `RE:` | Za: Edvard<br>Kp: 9 oseb | Brez | Trditev, da Stalin ni napadel Poljske, ampak jo je šel 17. 9. 1939 »osvobajat«; očitki desničarjem o potvarjanju zgodovine. |
 | **7** | `55160` | 9. 9. 2026, 22:38 | `RE:` | Za: Edvard<br>Kp: 9 oseb | Brez | Whataboutism: primerjava stalinističnih zločinov z zahodnim kolonializmom (Kongo, Vietnam, poboji staroselcev); »Zahodni režimi so večji zločinci od Stalina«. |
 | **8** | `55181` | 10. 9. 2026, 10:49 | `RE:` | Za: Edvard<br>Kp: 9 oseb | Brez | Zavračanje dialoga z Edvardom; označevanje sogovornika za »zaslepljenega vernika«. |
-| **9** | `55235` | 11. 9. 2026, 10:49 | `EU podpira nacizem in ne demokracijo v Ukrajini` | Za: 11 oseb (Edvard, Boris Š., Darinka, Jernej, Radovan, Svetlana, Lucija, Inga, Uljana, Črtomir, Vinko) | [`Primorski-Primorski-11_09_2026-22.pdf`](priloge/Primorski-Primorski-11_09_2026-22.pdf) | Ključni propagandni mail z zadevo o »nacizmu v Ukrajini« in priloženim člankom tržaškega občinskega svetnika Stefana iz Primorskega dnevnika. |
+| **9** | `55235` | 11. 9. 2026, 10:49 | `EU podpira nacizem in ne demokracijo v Ukrajini` | Za: Edvard, Jernej | [`Primorski-Primorski-11_09_2026-22.pdf`](priloge/Primorski-Primorski-11_09_2026-22.pdf) | Ključni propagandni mail z zadevo o »nacizmu v Ukrajini« in priloženim člankom tržaškega občinskega občinskega svetnika iz Primorskega dnevnika. |
 | **10** | `55262` | 11. 9. 2026, 16:36 | `RE: EU podpira nacizem in ne demokracijo v Ukrajini` | Za: Jernej<br>Kp: 9 oseb | Brez | Ostri osebni obračun z Jernejem po njegovi kritiki poslanega propagandnega gradiva; napoved izbrisa iz dopisnega seznama. |
 | **11** | `55266` | 11. 9. 2026, 18:18 | `RE: EU podpira nacizem in ne demokracijo v Ukrajini` | Za: Edvard<br>Kp: 8 oseb | Brez | Obtožbe o širjenju »lažnive zahodne propagande«, »rusofobiji«, zagovor Putina (v primerjavi z Netanjahujem) in napoved umika iz razprav. |
 
@@ -38,7 +38,7 @@ Vsebina Borisovih sporočil se osredotoča na več povezanih geopolitičnih in z
 To je osrednji neposredni prispevek o vojni v Ukrajini:
 - **Zadeva sporočila:** Boris je sam izbral naslov: *»EU podpira nacizem in ne demokracijo v Ukrajini«*.
 - **Borisov spremni komentar:** *»Ni zraslo na mojem zelniku, pač pa na zelniku resnicoljubneža iz Trsta.«* S tem se v celoti identificira z vsebino in jo ponuja kot nesporno resnico.
-- **Vsebina priloženega članka (avtor občinski svetnik Stefano, Primorski dnevnik, 11. 9. 2026, str. 22, »Boj med nacizmom in demokracijo«):**
+- **Vsebina priloženega članka (avtor tržaški občinski svetnik, Primorski dnevnik, 11. 9. 2026, str. 22, »Boj med nacizmom in demokracijo«):**
   1. *Trditev o nacizmu v Kijevu:* Vojna naj se ne bi bila med demokracijo in ruskim imperializmom, temveč med »nacizmom in demokracijo«.
   2. *Incident med službama SBU in GRU:* Izpostavlja strelski spopad v Kijevu (2. septembra) in vpletenost RDK (Ruski prostovoljni korpus), ki jih označi za *»ruske naciste, ki se že od državnega udara leta 2014 borijo v vrstah ukrajinske vojske v Donbasu proti svojim rojakom«*.
   3. *Karakterizacija oblasti:* Prek vodstva obveščevalcev in predsednika Zelenskega avtor izpelje sklep, da je *»zelo težko zanikati nacistični značaj kijevskega režima«*.
@@ -106,7 +106,7 @@ $$	ext{Skupna ocena podobnosti} = (0{,}25 	imes 98) + (0{,}35 	imes 96) + (0{,}2
 ## 5. KLJUČNE UGOTOVITVE IN ZAKLJUČEK
 
 1. **Sistematično širjenje proruskih stališč:** Boris v analiziranem obdobju (september 2026) ni nastopal kot nevtralen opazovalec, temveč je v skupinsko korespondenco načrtno vnašal gradiva in stališča, ki legitimirajo rusko vojaško agresijo.
-2. **Distribucija zunanjih propagandnih virov:** Z razpošiljanjem članka občinskega svetnika Stefana iz *Primorskega dnevnika* (pod naslovom *»EU podpira nacizem in ne demokracijo v Ukrajini«*) je neposredno širil temeljni propagandni konstrukt Kremlja o »denacifikaciji«.
+2. **Distribucija zunanjih propagandnih virov:** Z razpošiljanjem članka občinskega občinskega svetnika iz *Primorskega dnevnika* (pod naslovom *»EU podpira nacizem in ne demokracijo v Ukrajini«*) je neposredno širil temeljni propagandni konstrukt Kremlja o »denacifikaciji«.
 3. **Politična usmeritev v podporo proruskim strankam:** V svojih sporočilih odprto promovira zahteve nemške stranke AfD po prekinitvi sankcij proti Rusiji, ustavitvi vojaške pomoči Ukrajini in ponovnem uvozu ruskega plina.
 4. **Reakcija na opozorila sogovornikov:** Ob argumentiranih pomislekih Edvarda in Jerneja se je poslužil tipičnih tehnik diskreditacije (očitki o »rusofobiji«, »plačanih bruseljskih lažeh« ter umik iz nadaljnjega dialoga).
 

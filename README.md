@@ -48,7 +48,7 @@ Analiza temelji na neposrednem preučevanju primarnih komunikacijskih virov ter 
    - 📄 [`Primorski-Primorski-11_09_2026-22.pdf`](priloge/Primorski-Primorski-11_09_2026-22.pdf) – objava članka tržaškega občinskega svetnika Stefana Ukmarja *»Boj med nacizmom in demokracijo«* v *Primorskem dnevniku* (Trst, 11. 9. 2026, str. 22).
    - 🖼️ [`Hiteljevi pakti.jpg`](priloge/Hiteljevi%20pakti.jpg) – preglednica predvojnih pogodb z nacistično Nemčijo, posredovana s strani Borisa.
    - 🖼️ [`graf_house_of_freedom.png`](priloge/graf_house_of_freedom.png) – primerjalni graf političnih svoboščin v članicah SCO (Freedom House), posredovan s strani Edvarda.
-   - 🖼️ [`edvard_5456_image.png`](priloge/edvard_5456_image.png) – zapis dr. Vida Mlakarja o volitvah v Saški in analizi volilnega telesa AfD.
+   - 🖼️ [`edvard_5456_image.png`](priloge/edvard_5456_image.png) – zapis analitika o volitvah v Saški in analizi volilnega telesa AfD.
    - 🖼️ [`edvard_5412_image.png`](priloge/edvard_5412_image.png) – objava izjave V. Putina na gospodarskem forumu.
    - 🖼️ [`edvard_5437_image001.png`](priloge/edvard_5437_image001.png) – naslovnica knjige Slavenke Drakulić *»Kako smo preživeli komunizem in se celo smejali«*.
 
@@ -95,7 +95,7 @@ Analiza temelji na neposrednem preučevanju primarnih komunikacijskih virov ter 
 | Kriterij primerjave | Boris | Edvard |
 | :--- | :--- | :--- |
 | **Glavni narativi** | Kijevski nacizem, upravičevanje napada na Ukrajino, pakt Hitler-Stalin kot »najbolj pošten«, whataboutism. | Tajni protokol 1939, sovjetska agresija, nesprejemljivost ruske propagande, etika manjšega naroda. |
-| **Uporabljeni viri** | Propaganda RT, internetni memi (`Hiteljevi pakti.jpg`), propagandni članki (Stefano v Primorskem dnevniku). | Arhivski dokumenti ZSSR, mednarodne pogodbe (Riga, Pariz), znanstvena zgodovinska dejstva. |
+| **Uporabljeni viri** | Propaganda RT, internetni memi (`Hiteljevi pakti.jpg`), propagandni članki (članek svetnika v Primorskem dnevniku). | Arhivski dokumenti ZSSR, mednarodne pogodbe (Riga, Pariz), znanstvena zgodovinska dejstva. |
 | **Argumentacijski slog** | Osebne diskvalifikacije, teorije zarote, izključevanje sogovornikov iz dopisnega seznama. | Racionalna argumentacija, osredotočenost na dejstva, zavračanje osebnih žalitev. |
 | **Kvantitativna ocena** | **~ 95 % skladnost z rusko državno propagando** | **~ 99 % skladnost s splošno sprejetimi zgodovinskimi dejstvi** |
 

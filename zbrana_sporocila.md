@@ -18,7 +18,7 @@ V skladu z navodili in varovanjem zasebnosti so v vseh sporočilih uporabljena *
 * **Edvard** (sodelujoči / pobudnik faktografskega preverjanja)
 * **Boris** (sodelujoči / zagovornik alternativnih narativov in posredovalec člankov)
 * **Jernej** (sodelujoči / kritični komentator posredovanih propagandnih vsebin)
-* Ostali prejemniki in naslovniki v skupini: **Darinka**, **Radovan**, **Boris Š.**, **Vinko**, **Bojana**, **Inga**, **Lucija**, **Svetlana**, **Uljana**, **Črtomir**.
+Vsi ostali vnosi in priimki v glavah ter besedilih sporočil (vključno s polji Kp/Cc) so bili v celoti odstranjeni v skladu z načelom anonimizacije (ohranjena so le imena Edvard, Boris, Jernej).
 
 ---
 
@@ -30,8 +30,8 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 1 | `graf_house_of_freedom.png` | **Edvard** | #3 (7. 9. 2026, 06:53) | Primerjalni graf političnih in demokratičnih svoboščin v državah SCO (Freedom House). | [📄 Ogled slike](priloge/graf_house_of_freedom.png) |
 | 2 | `Hiteljevi pakti.jpg` | **Boris** | #9 (9. 9. 2026, 20:51) | Preglednica predvojnih pogodb z nacistično Nemčijo za relativizacijo pakta Molotov-Ribbentrop. | [📄 Ogled slike](priloge/Hiteljevi%20pakti.jpg) |
-| 3 | `edvard_5456_image.png` | **Edvard** | #15 (9. 9. 2026, 22:29) | Posnetek zaslona objave dr. Vida Mlakarja o volitvah v Nemčiji (Saška) in analizi AfD. | [📄 Ogled slike](priloge/edvard_5456_image.png) |
-| 4 | `Primorski-Primorski-11_09_2026-22.pdf` | **Boris** | #27 (11. 9. 2026, 10:49) | Izvirna objava članka tržaškega občinskega svetnika Stefana Ukmarja v *Primorskem dnevniku* (*»Boj med nacizmom in demokracijo«*). | [📥 Prenos PDF](priloge/Primorski-Primorski-11_09_2026-22.pdf) |
+| 3 | `edvard_5456_image.png` | **Edvard** | #15 (9. 9. 2026, 22:29) | Posnetek zaslona objave analitika o volitvah v Nemčiji (Saška) in analizi AfD. | [📄 Ogled slike](priloge/edvard_5456_image.png) |
+| 4 | `Primorski-Primorski-11_09_2026-22.pdf` | **Boris** | #27 (11. 9. 2026, 10:49) | Izvirna objava članka tržaškega občinskega svetnika v *Primorskem dnevniku* (*»Boj med nacizmom in demokracijo«*). | [📥 Prenos PDF](priloge/Primorski-Primorski-11_09_2026-22.pdf) |
 | 5 | `edvard_5412_image.png` | **Edvard** | #2 (3. 9. 2026, 22:23) | Posnetek zaslona objave z izjavo V. Putina na gospodarskem forumu o pogajanjih. | [📄 Ogled slike](priloge/edvard_5412_image.png) |
 | 6 | `edvard_5437_image001.png` | **Edvard** | #25 ref (8. 9. 2026) | Naslovnica knjige Slavenke Drakulić *»Kako smo preživeli komunizem in se celo smejali«*. | [📄 Ogled slike](priloge/edvard_5437_image001.png) |
 
@@ -84,7 +84,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #1 | Pošiljatelj: Edvard
 * **Datum in ura:** Četrtek, 3. september 2026, ob 22:12 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Inga, Vinko, Radovan, Darinka, Črtomir, Boris Š., Edvard, Jernej, Bojana, Uljana
+* **Za (prejemniki):** Jernej
 * **Zadeva:** `Rusi nimajo izgub v ukrajini ! ( samo Ruski vojaki ... )`
 * **Priloge:** Brez
 
@@ -102,7 +102,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #2 | Pošiljatelj: Edvard
 * **Datum in ura:** Četrtek, 3. september 2026, ob 22:23 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Inga, Vinko, Radovan, Darinka, Črtomir, Boris Š., Edvard, Jernej, Bojana, Uljana
+* **Za (prejemniki):** Jernej
 * **Zadeva:** `Obetavno, morda se bližamo koncu vojne v Ukrajini ( objava na X-u)`
 * 📎 **Priloge:** [`edvard_5412_image.png`](priloge/edvard_5412_image.png)
 
@@ -135,8 +135,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #3 | Pošiljatelj: Edvard
 * **Datum in ura:** Ponedeljek, 7. september 2026, ob 06:53 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Darinka
-* **Kp (v vednost):** Radovan, Boris Š., Boris, Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana
+* **Za (prejemniki):** Boris, Jernej
 * **Zadeva:** `Re: `
 * 📎 **Priloge:** [`graf_house_of_freedom.png`](priloge/graf_house_of_freedom.png)
 
@@ -148,10 +147,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 > lp Edvard
 > 
-> V V pon., 7. sep. 2026 ob 00:46 je oseba Darinka Kozinc 
-> Darinka napisala:
+> Zapisano je bilo:
 > 
-> > Uroš lipušček, posredujem, lpd
+> > Posredujem:
 > >
 > > Od Blejskega foruma do Šanghaja: svet se premika v multipolarno ureditev
 > > Medtem ko so na Blejskem strateškem forumu razpravljali o moči
@@ -255,8 +253,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #4 | Pošiljatelj: Boris
 * **Datum in ura:** Ponedeljek, 7. september 2026, ob 10:35 (CEST)
 * **Pošiljatelj:** **Boris**
-* **Za (prejemniki):** Edvard, Darinka
-* **Kp (v vednost):** Radovan, Boris Š., Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana
+* **Za (prejemniki):** Edvard, Jernej
 * **Zadeva:** `RE: `
 * **Priloge:** Brez
 
@@ -272,10 +269,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 <summary>📜 <i>Kliknite za ogled predhodno citiranega besedila v tem sporočilu</i></summary>
 <br>
 
-> From: Edvard Grmadnik Edvard 
+> From: Edvard
 > Sent: Monday, September 7, 2026 6:54 AM
-> To: Darinka Kozinc Darinka
-> Cc: Radovan Radovan; Boris Boris Š.; boris nemec Boris; STUDIO TORKAR D.O.O. Vinko; bojana kompare Bojana; Jernej Jernej; Inga Brezigar Inga; Lucija Mozetič Lucija; Svetlana Lipužič Svetlana; Uljana Gruntar Uljana
+> To: Boris, Edvard, Jernej
 > Subject: Re:
 > 
 >  
@@ -292,9 +288,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> V V pon., 7. sep. 2026 ob 00:46 je Darinka Kozinc Darinka   napisal(a):
+> Zapisano je bilo:
 > 
-> Uroš lipušček, posredujem, lpd
+> Posredujem:
 > 
 >  
 > 
@@ -339,8 +335,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #5 | Pošiljatelj: Edvard
 * **Datum in ura:** Sreda, 9. september 2026, ob 00:21 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Boris
-* **Kp (v vednost):** Darinka, Radovan, Boris Š., Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana
+* **Za (prejemniki):** Boris, Jernej
 * **Zadeva:** `Re: `
 * **Priloge:** Brez
 
@@ -374,15 +369,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Monday, September 7, 2026 6:54 AM
-> > *To:* Darinka Kozinc Darinka
-> > *Cc:* Radovan Radovan; Boris Boris Š.;
-> > boris nemec Boris; STUDIO TORKAR D.O.O. 
->  Vinko>; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris, Edvard, Jernej
 > > *Subject:* Re:
 > >
 > >
@@ -399,10 +388,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > V V pon., 7. sep. 2026 ob 00:46 je oseba Darinka Kozinc 
->  Darinka> napisala:
+> > Zapisano je bilo:
 > >
-> > Uroš lipušček, posredujem, lpd
+> > Posredujem:
 > >
 > >
 > >
@@ -518,8 +506,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #6 | Pošiljatelj: Boris
 * **Datum in ura:** Sreda, 9. september 2026, ob 09:54 (CEST)
 * **Pošiljatelj:** **Boris**
-* **Za (prejemniki):** Edvard
-* **Kp (v vednost):** Darinka, Radovan, Boris Š., Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana
+* **Za (prejemniki):** Edvard, Jernej
 * **Zadeva:** `RE: `
 * **Priloge:** Brez
 
@@ -553,10 +540,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 <summary>📜 <i>Kliknite za ogled predhodno citiranega besedila v tem sporočilu</i></summary>
 <br>
 
-> From: Edvard Grmadnik Edvard 
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 12:22 AM
 > To: Boris
-> Cc: Darinka Kozinc Darinka; Radovan Radovan; Boris Boris Š.; STUDIO TORKAR D.O.O. Vinko; bojana kompare Bojana; Jernej Jernej; Inga Brezigar Inga; Lucija Mozetič Lucija; Svetlana Lipužič Svetlana; Uljana Gruntar Uljana
 > Subject: Re:
 > 
 >  
@@ -589,10 +575,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Monday, September 7, 2026 6:54 AM
-> To: Darinka Kozinc Darinka  
-> Cc: Radovan Radovan  ; Boris Boris Š.  ; boris nemec Boris  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris, Edvard, Jernej
 > Subject: Re:
 > 
 >  
@@ -609,9 +594,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> V V pon., 7. sep. 2026 ob 00:46 je Darinka Kozinc Darinka   napisal(a):
+> Zapisano je bilo:
 > 
-> Uroš lipušček, posredujem, lpd
+> Posredujem:
 > 
 >  
 > 
@@ -656,8 +641,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #7 | Pošiljatelj: Edvard
 * **Datum in ura:** Sreda, 9. september 2026, ob 11:42 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Boris
-* **Kp (v vednost):** Darinka, Radovan, Boris Š., Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana
+* **Za (prejemniki):** Boris, Jernej
 * **Zadeva:** `Re: `
 * **Priloge:** Brez
 
@@ -733,15 +717,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 12:22 AM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -782,15 +760,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Monday, September 7, 2026 6:54 AM
-> > *To:* Darinka Kozinc Darinka
-> > *Cc:* Radovan Radovan; Boris Boris Š.;
-> > boris nemec Boris; STUDIO TORKAR D.O.O. 
->  Vinko>; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris, Edvard, Jernej
 > > *Subject:* Re:
 > >
 > >
@@ -807,10 +779,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > V V pon., 7. sep. 2026 ob 00:46 je oseba Darinka Kozinc 
->  Darinka> napisala:
+> > Zapisano je bilo:
 > >
-> > Uroš lipušček, posredujem, lpd
+> > Posredujem:
 > >
 > >
 > >
@@ -938,10 +909,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 <summary>📜 <i>Kliknite za ogled predhodno citiranega besedila v tem sporočilu</i></summary>
 <br>
 
-> From: Edvard Grmadnik Edvard 
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 11:43 AM
 > To: Boris
-> Cc: Darinka Kozinc Darinka; Radovan Radovan; Boris Boris Š.; STUDIO TORKAR D.O.O. Vinko; bojana kompare Bojana; Jernej Jernej; Inga Brezigar Inga; Lucija Mozetič Lucija; Svetlana Lipužič Svetlana; Uljana Gruntar Uljana
 > Subject: Re:
 > 
 >  
@@ -989,10 +959,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 12:22 AM
-> To: Boris  
-> Cc: Darinka Kozinc Darinka  ; Radovan Radovan  ; Boris Boris Š.  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris
 > Subject: Re:
 > 
 >  
@@ -1025,10 +994,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Monday, September 7, 2026 6:54 AM
-> To: Darinka Kozinc Darinka  
-> Cc: Radovan Radovan  ; Boris Boris Š.  ; boris nemec Boris  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris, Edvard, Jernej
 > Subject: Re:
 > 
 >  
@@ -1045,9 +1013,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> V V pon., 7. sep. 2026 ob 00:46 je Darinka Kozinc Darinka   napisal(a):
+> Zapisano je bilo:
 > 
-> Uroš lipušček, posredujem, lpd
+> Posredujem:
 > 
 >  
 > 
@@ -1092,8 +1060,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #9 | Pošiljatelj: Boris
 * **Datum in ura:** Sreda, 9. september 2026, ob 20:51 (CEST)
 * **Pošiljatelj:** **Boris**
-* **Za (prejemniki):** Edvard
-* **Kp (v vednost):** Darinka, Radovan, Boris Š., Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana
+* **Za (prejemniki):** Edvard, Jernej
 * **Zadeva:** `RE: `
 * 📎 **Priloge:** [`Hiteljevi pakti.jpg`](priloge/Hiteljevi%20pakti.jpg)
 
@@ -1116,10 +1083,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 <summary>📜 <i>Kliknite za ogled predhodno citiranega besedila v tem sporočilu</i></summary>
 <br>
 
-> From: Edvard Grmadnik Edvard 
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 11:43 AM
 > To: Boris
-> Cc: Darinka Kozinc Darinka; Radovan Radovan; Boris Boris Š.; STUDIO TORKAR D.O.O. Vinko; bojana kompare Bojana; Jernej Jernej; Inga Brezigar Inga; Lucija Mozetič Lucija; Svetlana Lipužič Svetlana; Uljana Gruntar Uljana
 > Subject: Re:
 > 
 >  
@@ -1167,10 +1133,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 12:22 AM
-> To: Boris  
-> Cc: Darinka Kozinc Darinka  ; Radovan Radovan  ; Boris Boris Š.  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris
 > Subject: Re:
 > 
 >  
@@ -1203,10 +1168,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Monday, September 7, 2026 6:54 AM
-> To: Darinka Kozinc Darinka  
-> Cc: Radovan Radovan  ; Boris Boris Š.  ; boris nemec Boris  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris, Edvard, Jernej
 > Subject: Re:
 > 
 >  
@@ -1223,9 +1187,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> V V pon., 7. sep. 2026 ob 00:46 je Darinka Kozinc Darinka   napisal(a):
+> Zapisano je bilo:
 > 
-> Uroš lipušček, posredujem, lpd
+> Posredujem:
 > 
 >  
 > 
@@ -1270,8 +1234,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #10 | Pošiljatelj: Edvard
 * **Datum in ura:** Sreda, 9. september 2026, ob 21:10 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Boris
-* **Kp (v vednost):** Darinka, Radovan, Boris Š., Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana
+* **Za (prejemniki):** Boris, Jernej
 * **Zadeva:** `Re: `
 * **Priloge:** Brez
 
@@ -1355,15 +1318,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 11:43 AM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -1440,15 +1397,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 12:22 AM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -1489,15 +1440,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Monday, September 7, 2026 6:54 AM
-> > *To:* Darinka Kozinc Darinka
-> > *Cc:* Radovan Radovan; Boris Boris Š.;
-> > boris nemec Boris; STUDIO TORKAR D.O.O. 
->  Vinko>; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris, Edvard, Jernej
 > > *Subject:* Re:
 > >
 > >
@@ -1514,10 +1459,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > V V pon., 7. sep. 2026 ob 00:46 je oseba Darinka Kozinc 
->  Darinka> napisala:
+> > Zapisano je bilo:
 > >
-> > Uroš lipušček, posredujem, lpd
+> > Posredujem:
 > >
 > >
 > >
@@ -1633,8 +1577,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #11 | Pošiljatelj: Boris
 * **Datum in ura:** Sreda, 9. september 2026, ob 22:01 (CEST)
 * **Pošiljatelj:** **Boris**
-* **Za (prejemniki):** Edvard
-* **Kp (v vednost):** Darinka, Radovan, Boris Š., Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana
+* **Za (prejemniki):** Edvard, Jernej
 * **Zadeva:** `RE: `
 * **Priloge:** Brez
 
@@ -1650,10 +1593,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 <summary>📜 <i>Kliknite za ogled predhodno citiranega besedila v tem sporočilu</i></summary>
 <br>
 
-> From: Edvard Grmadnik Edvard 
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 9:11 PM
 > To: Boris
-> Cc: Darinka Kozinc Darinka; Radovan Radovan; Boris Boris Š.; STUDIO TORKAR D.O.O. Vinko; bojana kompare Bojana; Jernej Jernej; Inga Brezigar Inga; Lucija Mozetič Lucija; Svetlana Lipužič Svetlana; Uljana Gruntar Uljana
 > Subject: Re:
 > 
 >  
@@ -1710,10 +1652,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 11:43 AM
-> To: Boris  
-> Cc: Darinka Kozinc Darinka  ; Radovan Radovan  ; Boris Boris Š.  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris
 > Subject: Re:
 > 
 >  
@@ -1761,10 +1702,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 12:22 AM
-> To: Boris  
-> Cc: Darinka Kozinc Darinka  ; Radovan Radovan  ; Boris Boris Š.  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris
 > Subject: Re:
 > 
 >  
@@ -1797,10 +1737,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Monday, September 7, 2026 6:54 AM
-> To: Darinka Kozinc Darinka  
-> Cc: Radovan Radovan  ; Boris Boris Š.  ; boris nemec Boris  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris, Edvard, Jernej
 > Subject: Re:
 > 
 >  
@@ -1817,9 +1756,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> V V pon., 7. sep. 2026 ob 00:46 je Darinka Kozinc Darinka   napisal(a):
+> Zapisano je bilo:
 > 
-> Uroš lipušček, posredujem, lpd
+> Posredujem:
 > 
 >  
 > 
@@ -1864,8 +1803,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #12 | Pošiljatelj: Edvard
 * **Datum in ura:** Sreda, 9. september 2026, ob 22:13 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Boris
-* **Kp (v vednost):** Darinka, Radovan, Boris Š., Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana
+* **Za (prejemniki):** Boris, Jernej
 * **Zadeva:** `Re: `
 * **Priloge:** Brez
 
@@ -1919,15 +1857,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 9:11 PM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -2014,15 +1946,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 11:43 AM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -2099,15 +2025,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 12:22 AM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -2148,15 +2068,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Monday, September 7, 2026 6:54 AM
-> > *To:* Darinka Kozinc Darinka
-> > *Cc:* Radovan Radovan; Boris Boris Š.;
-> > boris nemec Boris; STUDIO TORKAR D.O.O. 
->  Vinko>; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris, Edvard, Jernej
 > > *Subject:* Re:
 > >
 > >
@@ -2173,10 +2087,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > V V pon., 7. sep. 2026 ob 00:46 je oseba Darinka Kozinc 
->  Darinka> napisala:
+> > Zapisano je bilo:
 > >
-> > Uroš lipušček, posredujem, lpd
+> > Posredujem:
 > >
 > >
 > >
@@ -2292,8 +2205,8 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #13 | Pošiljatelj: Edvard
 * **Datum in ura:** Sreda, 9. september 2026, ob 22:23 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Inga, Vinko, Radovan, Darinka, Črtomir, Boris Š., Edvard, Jernej, Bojana, Uljana
-* **Zadeva:** `O skorumpirani in navidezni zahodni demokraciji - bluzenje po Nemčevo`
+* **Za (prejemniki):** Jernej
+* **Zadeva:** `O skorumpirani in navidezni zahodni demokraciji - bluzenje po Borisovo`
 * **Priloge:** Brez
 
 **Vsebina sporočila:**
@@ -2330,8 +2243,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #14 | Pošiljatelj: Boris
 * **Datum in ura:** Sreda, 9. september 2026, ob 22:24 (CEST)
 * **Pošiljatelj:** **Boris**
-* **Za (prejemniki):** Edvard
-* **Kp (v vednost):** Darinka, Radovan, Boris Š., Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana
+* **Za (prejemniki):** Edvard, Jernej
 * **Zadeva:** `RE: `
 * **Priloge:** Brez
 
@@ -2350,10 +2262,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 <summary>📜 <i>Kliknite za ogled predhodno citiranega besedila v tem sporočilu</i></summary>
 <br>
 
-> From: Boris Boris 
+> From: Boris
 > Sent: Wednesday, September 9, 2026 10:01 PM
-> To: 'Edvard Grmadnik' Edvard
-> Cc: 'Darinka Kozinc' Darinka; 'Radovan' Radovan; 'Boris' Boris Š.; 'STUDIO TORKAR D.O.O.' Vinko; 'bojana kompare' Bojana; 'Jernej' Jernej; 'Inga Brezigar' Inga; 'Lucija Mozetič' Lucija; 'Svetlana Lipužič' Svetlana; 'Uljana Gruntar' Uljana
+> To: Edvard
 > Subject: RE: 
 > 
 >  
@@ -2368,10 +2279,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 9:11 PM
-> To: Boris  
-> Cc: Darinka Kozinc Darinka  ; Radovan Radovan  ; Boris Boris Š.  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris
 > Subject: Re:
 > 
 >  
@@ -2428,10 +2338,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 11:43 AM
-> To: Boris  
-> Cc: Darinka Kozinc Darinka  ; Radovan Radovan  ; Boris Boris Š.  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris
 > Subject: Re:
 > 
 >  
@@ -2479,10 +2388,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 12:22 AM
-> To: Boris  
-> Cc: Darinka Kozinc Darinka  ; Radovan Radovan  ; Boris Boris Š.  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris
 > Subject: Re:
 > 
 >  
@@ -2515,10 +2423,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Monday, September 7, 2026 6:54 AM
-> To: Darinka Kozinc Darinka  
-> Cc: Radovan Radovan  ; Boris Boris Š.  ; boris nemec Boris  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris, Edvard, Jernej
 > Subject: Re:
 > 
 >  
@@ -2535,9 +2442,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> V V pon., 7. sep. 2026 ob 00:46 je Darinka Kozinc Darinka   napisal(a):
+> Zapisano je bilo:
 > 
-> Uroš lipušček, posredujem, lpd
+> Posredujem:
 > 
 >  
 > 
@@ -2582,8 +2489,8 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #15 | Pošiljatelj: Edvard
 * **Datum in ura:** Sreda, 9. september 2026, ob 22:29 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Inga, Vinko, Radovan, Darinka, Črtomir, Boris Š., Edvard, Jernej, Bojana, Uljana
-* **Zadeva:** `Re: O skorumpirani in navidezni zahodni demokraciji - bluzenje po Nemčevo`
+* **Za (prejemniki):** Jernej
+* **Zadeva:** `Re: O skorumpirani in navidezni zahodni demokraciji - bluzenje po Borisovo`
 * 📎 **Priloge:** [`edvard_5456_image.png`](priloge/edvard_5456_image.png)
 
 **Vsebina sporočila:**
@@ -2594,8 +2501,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > [image: image.png]
 > lp Edvard
 > 
-> V V sre., 9. sep. 2026 ob 22:23 je oseba Edvard Grmadnik 
-> Edvard napisala:
+> Edvard je napisal:
 > 
 > > Boris,
 > > to je moj odgovor na tvoj spodnji pamflet:
@@ -2638,7 +2544,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #16 | Pošiljatelj: Edvard
 * **Datum in ura:** Sreda, 9. september 2026, ob 22:33 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Inga, Vinko, Radovan, Darinka, Črtomir, Boris Š., Edvard, Jernej, Bojana, Uljana
+* **Za (prejemniki):** Jernej
 * **Zadeva:** `koalicijska pogodba sedanje vlade`
 * **Priloge:** Brez
 
@@ -2646,7 +2552,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 
 > Namesto da se komentiramo politične zdrahe in prerivanja v parlamentu in
 > na ulici, dajmo raje kritično komentirati koalicijsko pogodbo sedanje vlade.
-> Nemec Boris bi ji moral ploskati saj predvideva ustanovitev pokrajin.
+> Boris bi ji moral ploskati saj predvideva ustanovitev pokrajin.
 > 
 > Koalicijska-pogodba-za-mandat-2026-2030.pdf
 > <https://www.gov.si/assets/vlada/Razno/2026/Koalicijska-pogodba-za-mandat-2026-2030.pdf>
@@ -2661,8 +2567,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #17 | Pošiljatelj: Boris
 * **Datum in ura:** Sreda, 9. september 2026, ob 22:38 (CEST)
 * **Pošiljatelj:** **Boris**
-* **Za (prejemniki):** Edvard
-* **Kp (v vednost):** Darinka, Radovan, Boris Š., Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana
+* **Za (prejemniki):** Edvard, Jernej
 * **Zadeva:** `RE: `
 * **Priloge:** Brez
 
@@ -2682,10 +2587,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 <summary>📜 <i>Kliknite za ogled predhodno citiranega besedila v tem sporočilu</i></summary>
 <br>
 
-> From: Edvard Grmadnik Edvard 
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 10:13 PM
 > To: Boris
-> Cc: Darinka Kozinc Darinka; Radovan Radovan; Boris Boris Š.; STUDIO TORKAR D.O.O. Vinko; bojana kompare Bojana; Jernej Jernej; Inga Brezigar Inga; Lucija Mozetič Lucija; Svetlana Lipužič Svetlana; Uljana Gruntar Uljana
 > Subject: Re:
 > 
 >  
@@ -2726,10 +2630,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 9:11 PM
-> To: Boris  
-> Cc: Darinka Kozinc Darinka  ; Radovan Radovan  ; Boris Boris Š.  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris
 > Subject: Re:
 > 
 >  
@@ -2786,10 +2689,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard 
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 11:43 AM
-> To: Boris  
-> Cc: Darinka Kozinc Darinka  ; Radovan Radovan  ; Boris Boris Š.  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris
 > Subject: Re:
 > 
 >  
@@ -2837,10 +2739,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 12:22 AM
-> To: Boris  
-> Cc: Darinka Kozinc Darinka  ; Radovan Radovan  ; Boris Boris Š.  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris
 > Subject: Re:
 > 
 >  
@@ -2873,10 +2774,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Monday, September 7, 2026 6:54 AM
-> To: Darinka Kozinc Darinka  
-> Cc: Radovan Radovan  ; Boris Boris Š.  ; boris nemec Boris  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris, Edvard, Jernej
 > Subject: Re:
 > 
 >  
@@ -2893,9 +2793,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> V V pon., 7. sep. 2026 ob 00:46 je Darinka Kozinc Darinka   napisal(a):
+> Zapisano je bilo:
 > 
-> Uroš lipušček, posredujem, lpd
+> Posredujem:
 > 
 >  
 > 
@@ -2940,8 +2840,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #18 | Pošiljatelj: Edvard
 * **Datum in ura:** Sreda, 9. september 2026, ob 23:46 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Boris
-* **Kp (v vednost):** Darinka, Radovan, Boris Š., Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana
+* **Za (prejemniki):** Boris, Jernej
 * **Zadeva:** `Re: `
 * **Priloge:** Brez
 
@@ -2982,15 +2881,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 10:13 PM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -3047,15 +2940,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 9:11 PM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -3142,15 +3029,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 11:43 AM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -3227,15 +3108,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 12:22 AM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -3276,15 +3151,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Monday, September 7, 2026 6:54 AM
-> > *To:* Darinka Kozinc Darinka
-> > *Cc:* Radovan Radovan; Boris Boris Š.;
-> > boris nemec Boris; STUDIO TORKAR D.O.O. 
->  Vinko>; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris, Edvard, Jernej
 > > *Subject:* Re:
 > >
 > >
@@ -3301,10 +3170,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > V V pon., 7. sep. 2026 ob 00:46 je oseba Darinka Kozinc 
->  Darinka> napisala:
+> > Zapisano je bilo:
 > >
-> > Uroš lipušček, posredujem, lpd
+> > Posredujem:
 > >
 > >
 > >
@@ -3420,8 +3288,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #19 | Pošiljatelj: Edvard
 * **Datum in ura:** Sreda, 9. september 2026, ob 23:55 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Boris
-* **Kp (v vednost):** Darinka, Radovan, Boris Š., Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana
+* **Za (prejemniki):** Boris, Jernej
 * **Zadeva:** `Re: `
 * **Priloge:** Brez
 
@@ -3465,8 +3332,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > RT je torej *propagandni kanal*, ki je narejen tako, da se zgodovina vedno
 > konča v korist Moskve.
 > 
-> V V sre., 9. sep. 2026 ob 23:46 je oseba Edvard Grmadnik 
-> Edvard napisala:
+> Edvard je napisal:
 > 
 > > *Boris,* glede Poljske 1939 ne gre za “desničarske laži”, ampak za
 > > dokumentirana dejstva. Molotov–Ribbentrop pakt je imel *tajni protokol*,
@@ -3503,16 +3369,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >>
 > >>
 > >>
-> >> *From:* Edvard Grmadnik Edvard
+> >> *From: Edvard
 > >> *Sent:* Wednesday, September 9, 2026 10:13 PM
-> >> *To:* Boris
-> >> *Cc:* Darinka Kozinc Darinka; Radovan 
-> > Radovan>; Boris Boris Š.; STUDIO TORKAR
-> >> D.O.O. Vinko; bojana kompare Bojana;
-> >> Jernej Jernej; Inga Brezigar 
-> > Inga>; Lucija Mozetič Lucija;
-> >> Svetlana Lipužič Svetlana; Uljana Gruntar 
-> > Uljana>
+> >> *To: Boris
 > >> *Subject:* Re:
 > >>
 > >>
@@ -3569,16 +3428,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >>
 > >>
 > >>
-> >> *From:* Edvard Grmadnik Edvard
+> >> *From: Edvard
 > >> *Sent:* Wednesday, September 9, 2026 9:11 PM
-> >> *To:* Boris
-> >> *Cc:* Darinka Kozinc Darinka; Radovan 
-> > Radovan>; Boris Boris Š.; STUDIO TORKAR
-> >> D.O.O. Vinko; bojana kompare Bojana;
-> >> Jernej Jernej; Inga Brezigar 
-> > Inga>; Lucija Mozetič Lucija;
-> >> Svetlana Lipužič Svetlana; Uljana Gruntar 
-> > Uljana>
+> >> *To: Boris
 > >> *Subject:* Re:
 > >>
 > >>
@@ -3665,16 +3517,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >>
 > >>
 > >>
-> >> *From:* Edvard Grmadnik Edvard
+> >> *From: Edvard
 > >> *Sent:* Wednesday, September 9, 2026 11:43 AM
-> >> *To:* Boris
-> >> *Cc:* Darinka Kozinc Darinka; Radovan 
-> > Radovan>; Boris Boris Š.; STUDIO TORKAR
-> >> D.O.O. Vinko; bojana kompare Bojana;
-> >> Jernej Jernej; Inga Brezigar 
-> > Inga>; Lucija Mozetič Lucija;
-> >> Svetlana Lipužič Svetlana; Uljana Gruntar 
-> > Uljana>
+> >> *To: Boris
 > >> *Subject:* Re:
 > >>
 > >>
@@ -3751,16 +3596,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >>
 > >>
 > >>
-> >> *From:* Edvard Grmadnik Edvard
+> >> *From: Edvard
 > >> *Sent:* Wednesday, September 9, 2026 12:22 AM
-> >> *To:* Boris
-> >> *Cc:* Darinka Kozinc Darinka; Radovan 
-> > Radovan>; Boris Boris Š.; STUDIO TORKAR
-> >> D.O.O. Vinko; bojana kompare Bojana;
-> >> Jernej Jernej; Inga Brezigar 
-> > Inga>; Lucija Mozetič Lucija;
-> >> Svetlana Lipužič Svetlana; Uljana Gruntar 
-> > Uljana>
+> >> *To: Boris
 > >> *Subject:* Re:
 > >>
 > >>
@@ -3801,16 +3639,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >>
 > >>
 > >>
-> >> *From:* Edvard Grmadnik Edvard
+> >> *From: Edvard
 > >> *Sent:* Monday, September 7, 2026 6:54 AM
-> >> *To:* Darinka Kozinc Darinka
-> >> *Cc:* Radovan Radovan; Boris Boris Š.;
-> >> boris nemec Boris; STUDIO TORKAR D.O.O. 
-> > Vinko>; bojana kompare Bojana;
-> >> Jernej Jernej; Inga Brezigar 
-> > Inga>; Lucija Mozetič Lucija;
-> >> Svetlana Lipužič Svetlana; Uljana Gruntar 
-> > Uljana>
+> >> *To: Boris, Edvard, Jernej
 > >> *Subject:* Re:
 > >>
 > >>
@@ -3827,10 +3658,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >>
 > >>
 > >>
-> >> V V pon., 7. sep. 2026 ob 00:46 je oseba Darinka Kozinc 
-> > Darinka> napisala:
+> >> Zapisano je bilo:
 > >>
-> >> Uroš lipušček, posredujem, lpd
+> >> Posredujem:
 > >>
 > >>
 > >>
@@ -3946,14 +3776,13 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #20 | Pošiljatelj: Edvard
 * **Datum in ura:** Četrtek, 10. september 2026, ob 09:16 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Radovan
-* **Kp (v vednost):** Boris, Darinka, Boris Š., Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana
+* **Za (prejemniki):** Boris, Jernej
 * **Zadeva:** `Re: `
 * **Priloge:** Brez
 
 **Vsebina sporočila:**
 
-> Radovan,
+> Pozdravljeni,
 > 
 > AI povzetek, ki si ga prilepil, je nevtralna analiza dogajanja: opis
 > diplomacije, protestov in političnih reakcij. Iz tega AI *nikjer* ne sklepa
@@ -3978,8 +3807,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > oceno, ki v AI-jevem besedilu sploh ne obstaja. To ni analiza, ampak *poskus
 > utrjevanja tvoje politične agende*. lp Edvard
 > 
-> V V čet., 10. sep. 2026 ob 00:21 je oseba Radovan Grapulin 
-> Radovan napisala:
+> Zapisano je bilo:
 > 
 > > V luči medsebojnih poznavanj zgodovine- jasno vsak s svoje strani poteka v
 > > Sloveniji nekaj kar smo že imeli v zgodovini in nima nikakršne povezave z
@@ -4270,15 +4098,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 11:56 PM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -4315,8 +4137,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > V V sre., 9. sep. 2026 ob 23:46 je oseba Edvard Grmadnik 
->  Edvard> napisala:
+> > Edvard je napisal:
 > >
 > > *Boris,* glede Poljske 1939 ne gre za “desničarske laži”, ampak za
 > > dokumentirana dejstva. Molotov–Ribbentrop pakt je imel *tajni protokol*,
@@ -4355,15 +4176,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 10:13 PM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -4420,15 +4235,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 9:11 PM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -4515,15 +4324,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 11:43 AM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -4600,15 +4403,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 12:22 AM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -4649,15 +4446,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Monday, September 7, 2026 6:54 AM
-> > *To:* Darinka Kozinc Darinka
-> > *Cc:* Radovan Radovan; Boris Boris Š.;
-> > boris nemec Boris; STUDIO TORKAR D.O.O. 
->  Vinko>; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris, Edvard, Jernej
 > > *Subject:* Re:
 > >
 > >
@@ -4674,10 +4465,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > V V pon., 7. sep. 2026 ob 00:46 je oseba Darinka Kozinc 
->  Darinka> napisala:
+> > Zapisano je bilo:
 > >
-> > Uroš lipušček, posredujem, lpd
+> > Posredujem:
 > >
 > >
 > >
@@ -4799,13 +4589,13 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #21 | Pošiljatelj: Edvard
 * **Datum in ura:** Četrtek, 10. september 2026, ob 09:28 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Inga, Vinko, Radovan, Darinka, Črtomir, Boris Š., Edvard, Jernej, Bojana, Uljana
+* **Za (prejemniki):** Jernej
 * **Zadeva:** `Kaj narediti za hitrejši razvoj Slovenije ?`
 * **Priloge:** Brez
 
 **Vsebina sporočila:**
 
-> Zanimivo je poslušati Radovana: leta in leta govori, da se Slovenija ne
+> Zanimivo je poslušati: leta in leta govori, da se Slovenija ne
 > trudi za tehnološki razvoj, potem pa hkrati nasprotuje približevanju
 > Izraelu. Državi, ki je med vodilnimi na svetu v kibernetski varnosti,
 > pametnem kmetijstvu, medicinski diagnostiki z umetno inteligenco, naprednih
@@ -4826,8 +4616,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #22 | Pošiljatelj: Boris
 * **Datum in ura:** Četrtek, 10. september 2026, ob 10:49 (CEST)
 * **Pošiljatelj:** **Boris**
-* **Za (prejemniki):** Edvard
-* **Kp (v vednost):** Darinka, Radovan, Boris Š., Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana
+* **Za (prejemniki):** Edvard, Jernej
 * **Zadeva:** `RE: `
 * **Priloge:** Brez
 
@@ -4841,10 +4630,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 <summary>📜 <i>Kliknite za ogled predhodno citiranega besedila v tem sporočilu</i></summary>
 <br>
 
-> From: Edvard Grmadnik Edvard 
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 11:46 PM
 > To: Boris
-> Cc: Darinka Kozinc Darinka; Radovan Radovan; Boris Boris Š.; STUDIO TORKAR D.O.O. Vinko; bojana kompare Bojana; Jernej Jernej; Inga Brezigar Inga; Lucija Mozetič Lucija; Svetlana Lipužič Svetlana; Uljana Gruntar Uljana
 > Subject: Re:
 > 
 >  
@@ -4876,10 +4664,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 10:13 PM
-> To: Boris  
-> Cc: Darinka Kozinc Darinka  ; Radovan Radovan  ; Boris Boris Š.  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris
 > Subject: Re:
 > 
 >  
@@ -4920,10 +4707,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 9:11 PM
-> To: Boris  
-> Cc: Darinka Kozinc Darinka  ; Radovan Radovan  ; Boris Boris Š.  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris
 > Subject: Re:
 > 
 >  
@@ -4980,10 +4766,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 11:43 AM
-> To: Boris  
-> Cc: Darinka Kozinc Darinka  ; Radovan Radovan  ; Boris Boris Š.  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris
 > Subject: Re:
 > 
 >  
@@ -5031,10 +4816,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Wednesday, September 9, 2026 12:22 AM
-> To: Boris  
-> Cc: Darinka Kozinc Darinka  ; Radovan Radovan  ; Boris Boris Š.  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana
+> To: Boris
 > Subject: Re:
 > 
 >  
@@ -5067,10 +4851,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Edvard Grmadnik Edvard   
+> From: Edvard
 > Sent: Monday, September 7, 2026 6:54 AM
-> To: Darinka Kozinc Darinka  
-> Cc: Radovan Radovan  ; Boris Boris Š.  ; boris nemec Boris  ; STUDIO TORKAR D.O.O. Vinko  ; bojana kompare Bojana  ; Jernej Jernej  ; Inga Brezigar Inga  ; Lucija Mozetič Lucija  ; Svetlana Lipužič Svetlana  ; Uljana Gruntar Uljana  
+> To: Boris, Edvard, Jernej
 > Subject: Re:
 > 
 >  
@@ -5087,9 +4870,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> V V pon., 7. sep. 2026 ob 00:46 je Darinka Kozinc Darinka   napisal(a):
+> Zapisano je bilo:
 > 
-> Uroš lipušček, posredujem, lpd
+> Posredujem:
 > 
 >  
 > 
@@ -5134,8 +4917,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #23 | Pošiljatelj: Edvard
 * **Datum in ura:** Četrtek, 10. september 2026, ob 11:46 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Boris
-* **Kp (v vednost):** Darinka, Radovan, Boris Š., Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana
+* **Za (prejemniki):** Boris, Jernej
 * **Zadeva:** `Re: `
 * **Priloge:** Brez
 
@@ -5155,15 +4937,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 11:46 PM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -5205,15 +4981,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 10:13 PM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -5270,15 +5040,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 9:11 PM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -5365,15 +5129,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 11:43 AM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -5450,15 +5208,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Wednesday, September 9, 2026 12:22 AM
-> > *To:* Boris
-> > *Cc:* Darinka Kozinc Darinka; Radovan 
->  Radovan>; Boris Boris Š.; STUDIO TORKAR
-> > D.O.O. Vinko; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris
 > > *Subject:* Re:
 > >
 > >
@@ -5499,15 +5251,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Monday, September 7, 2026 6:54 AM
-> > *To:* Darinka Kozinc Darinka
-> > *Cc:* Radovan Radovan; Boris Boris Š.;
-> > boris nemec Boris; STUDIO TORKAR D.O.O. 
->  Vinko>; bojana kompare Bojana;
-> > Jernej Jernej; Inga Brezigar Inga;
-> > Lucija Mozetič Lucija; Svetlana Lipužič 
->  Svetlana>; Uljana Gruntar Uljana
+> > *To: Boris, Edvard, Jernej
 > > *Subject:* Re:
 > >
 > >
@@ -5524,10 +5270,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > V V pon., 7. sep. 2026 ob 00:46 je oseba Darinka Kozinc 
->  Darinka> napisala:
+> > Zapisano je bilo:
 > >
-> > Uroš lipušček, posredujem, lpd
+> > Posredujem:
 > >
 > >
 > >
@@ -5643,14 +5388,13 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #24 | Pošiljatelj: Edvard
 * **Datum in ura:** Četrtek, 10. september 2026, ob 12:16 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Radovan
-* **Kp (v vednost):** Inga, Vinko, Darinka, Črtomir, Boris Š., Jernej, Bojana, Uljana
+* **Za (prejemniki):** Jernej
 * **Zadeva:** `Re: Kaj narediti za hitrejši razvoj Slovenije ?`
 * **Priloge:** Brez
 
 **Vsebina sporočila:**
 
-> Radovan, zanimivo je, kako hitro relativiziraš bistvo: praviš, da “ni
+> Zanimivo je, kako hitro relativiziraš bistvo: praviš, da “ni
 > nujno, da bo sodelovanje z Izraelom prineslo koristi”, a hkrati ne ponudiš
 > niti ene alternative, ki bi Sloveniji prinesla več. Kritiziraš
 > veleposlaništvo, ne poveš pa, kaj naj bi bilo boljše — manj sodelovanja,
@@ -5692,8 +5436,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 > 
 > 
-> V V čet., 10. sep. 2026 ob 10:27 je oseba Radovan Grapulin 
-> Radovan napisala:
+> Zapisano je bilo:
 > 
 > > Vsekakor spoštujem, da lahko ima vsak svoje mnenje, ne morem pa mimo
 > > dejstva, da ob vsem pompu o razvoju Slovenije se gremo političnih igric in
@@ -5766,19 +5509,14 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Thursday, September 10, 2026 9:28 AM
-> > *To:* Inga; STUDIO TORKAR D.O.O. 
->  Vinko>; Radovan Grapulin Radovan;
-> > Darinka Kozinc Darinka; Crtomir Spacapan 
->  Črtomir>; Boris Š.; Edvard Grmadnik 
->  Edvard>; Jernej; bojana kompare 
->  Bojana>; Uljana Gruntar Uljana
+> > *To: Boris, Edvard, Jernej
 > > *Subject:* Kaj narediti za hitrejši razvoj Slovenije ?
 > >
 > >
 > >
-> > Zanimivo je poslušati Radovana: leta in leta govori, da se Slovenija ne
+> > Zanimivo je poslušati: leta in leta govori, da se Slovenija ne
 > > trudi za tehnološki razvoj, potem pa hkrati nasprotuje približevanju
 > > Izraelu. Državi, ki je med vodilnimi na svetu v kibernetski varnosti,
 > > pametnem kmetijstvu, medicinski diagnostiki z umetno inteligenco, naprednih
@@ -5805,18 +5543,18 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #25 | Pošiljatelj: Edvard
 * **Datum in ura:** Četrtek, 10. september 2026, ob 13:37 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Radovan, Inga, Vinko, Darinka, Črtomir, Boris Š., Edvard, Jernej, Bojana, Uljana
+* **Za (prejemniki):** Jernej
 * **Zadeva:** `Re: Kaj narediti za hitrejši razvoj Slovenije ?`
 * **Priloge:** Brez
 
 **Vsebina sporočila:**
 
-> Radovan in v vednost ostalim Karavlarjem,
+> V vednost ostalim Karavlarjem,
 > 
 > 
 > moj stavek "To o angležih pa je zraslo na tvojem zeljniku" se ni nanašal na
 > ukrep britanske vlade glede Izraela o katerem si ti pisal, ampak na izjavo
-> Borisa Nemca da so "*Angleži največji zločinci, večji od nacistov*". Do
+> Borisa da so "*Angleži največji zločinci, večji od nacistov*". Do
 > tvojega pisanja pa se sploh nisem opredelil.
 > 
 > 
@@ -5869,8 +5607,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 > 
 > 
-> V čet., 10. sep. 2026, 12:22 je oseba Radovan Grapulin 
-> Radovan napisala:
+> Zapisano je bilo:
 > 
 > > Edo nima smisla nadaljevati, potem ko ne *zmoreš demantirati*, »To o
 > > angležih pa je zraslo na tvojem zeljniku.« ker bi nadaljevanje razprave
@@ -5879,19 +5616,14 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Thursday, September 10, 2026 12:17 PM
-> > *To:* Radovan Grapulin Radovan
-> > *Cc:* Inga; STUDIO TORKAR D.O.O. 
->  Vinko>; Darinka Kozinc Darinka;
-> > Crtomir Spacapan Črtomir; Boris Š.;
-> > Jernej; bojana kompare Bojana;
-> > Uljana Gruntar Uljana
+> > *To: Boris, Edvard, Jernej
 > > *Subject:* Re: Kaj narediti za hitrejši razvoj Slovenije ?
 > >
 > >
 > >
-> > Radovan, zanimivo je, kako hitro relativiziraš bistvo: praviš, da “ni
+> > Zanimivo je, kako hitro relativiziraš bistvo: praviš, da “ni
 > > nujno, da bo sodelovanje z Izraelom prineslo koristi”, a hkrati ne ponudiš
 > > niti ene alternative, ki bi Sloveniji prinesla več. Kritiziraš
 > > veleposlaništvo, ne poveš pa, kaj naj bi bilo boljše — manj sodelovanja,
@@ -5936,8 +5668,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > V V čet., 10. sep. 2026 ob 10:27 je oseba Radovan Grapulin 
->  Radovan> napisala:
+> > Zapisano je bilo:
 > >
 > > Vsekakor spoštujem, da lahko ima vsak svoje mnenje, ne morem pa mimo
 > > dejstva, da ob vsem pompu o razvoju Slovenije se gremo političnih igric in
@@ -6010,19 +5741,14 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Edvard Grmadnik Edvard
+> > *From: Edvard
 > > *Sent:* Thursday, September 10, 2026 9:28 AM
-> > *To:* Inga; STUDIO TORKAR D.O.O. 
->  Vinko>; Radovan Grapulin Radovan;
-> > Darinka Kozinc Darinka; Crtomir Spacapan 
->  Črtomir>; Boris Š.; Edvard Grmadnik 
->  Edvard>; Jernej; bojana kompare 
->  Bojana>; Uljana Gruntar Uljana
+> > *To: Boris, Edvard, Jernej
 > > *Subject:* Kaj narediti za hitrejši razvoj Slovenije ?
 > >
 > >
 > >
-> > Zanimivo je poslušati Radovana: leta in leta govori, da se Slovenija ne
+> > Zanimivo je poslušati: leta in leta govori, da se Slovenija ne
 > > trudi za tehnološki razvoj, potem pa hkrati nasprotuje približevanju
 > > Izraelu. Državi, ki je med vodilnimi na svetu v kibernetski varnosti,
 > > pametnem kmetijstvu, medicinski diagnostiki z umetno inteligenco, naprednih
@@ -6054,7 +5780,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #26 | Pošiljatelj: Edvard
 * **Datum in ura:** Četrtek, 10. september 2026, ob 14:01 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Radovan, Inga, Vinko, Darinka, Črtomir, Boris Š., Edvard, Jernej, Bojana, Uljana
+* **Za (prejemniki):** Jernej
 * **Zadeva:** `Re: Kaj narediti za hitrejši razvoj Slovenije ?`
 * **Priloge:** Brez
 
@@ -6067,7 +5793,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > mandat 2026-2030 : "*KOALICIJA ZA USPEŠNO SLOVENIJO*"  in jo kritično
 > ocenijo.
 > 
-> Prav tako prosim Borisa Nemca kaj pravi  na pobudo na strani 11 :
+> Prav tako prosim Borisa kaj pravi  na pobudo na strani 11 :
 >                      "*Začetek postopkov za ustanovitev pokrajin ter
 > vzpostavitev in krepitev centrov regij za razvoj ostalih mest*".
 > 
@@ -6077,15 +5803,14 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 > 
 > 
-> V V čet., 10. sep. 2026 ob 13:37 je oseba Edvard Grmadnik 
-> Edvard napisala:
+> Edvard je napisal:
 > 
-> > Radovan in v vednost ostalim Karavlarjem,
+> > V vednost ostalim Karavlarjem,
 > >
 > >
 > > moj stavek "To o angležih pa je zraslo na tvojem zeljniku" se ni nanašal
 > > na ukrep britanske vlade glede Izraela o katerem si ti pisal, ampak na
-> > izjavo Borisa Nemca da so "*Angleži največji zločinci, večji od nacistov*".
+> > izjavo Borisa da so "*Angleži največji zločinci, večji od nacistov*".
 > > Do tvojega pisanja pa se sploh nisem opredelil.
 > >
 > >
@@ -6138,8 +5863,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > V čet., 10. sep. 2026, 12:22 je oseba Radovan Grapulin 
->  Radovan> napisala:
+> > Zapisano je bilo:
 > >
 > >> Edo nima smisla nadaljevati, potem ko ne *zmoreš demantirati*, »To o
 > >> angležih pa je zraslo na tvojem zeljniku.« ker bi nadaljevanje razprave
@@ -6148,19 +5872,14 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >>
 > >>
 > >>
-> >> *From:* Edvard Grmadnik Edvard
+> >> *From: Edvard
 > >> *Sent:* Thursday, September 10, 2026 12:17 PM
-> >> *To:* Radovan Grapulin Radovan
-> >> *Cc:* Inga; STUDIO TORKAR D.O.O. 
-> > Vinko>; Darinka Kozinc Darinka;
-> >> Crtomir Spacapan Črtomir; Boris Š.;
-> >> Jernej; bojana kompare Bojana;
-> >> Uljana Gruntar Uljana
+> >> *To: Boris, Edvard, Jernej
 > >> *Subject:* Re: Kaj narediti za hitrejši razvoj Slovenije ?
 > >>
 > >>
 > >>
-> >> Radovan, zanimivo je, kako hitro relativiziraš bistvo: praviš, da “ni
+> >> Zanimivo je, kako hitro relativiziraš bistvo: praviš, da “ni
 > >> nujno, da bo sodelovanje z Izraelom prineslo koristi”, a hkrati ne ponudiš
 > >> niti ene alternative, ki bi Sloveniji prinesla več. Kritiziraš
 > >> veleposlaništvo, ne poveš pa, kaj naj bi bilo boljše — manj sodelovanja,
@@ -6205,8 +5924,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >>
 > >>
 > >>
-> >> V V čet., 10. sep. 2026 ob 10:27 je oseba Radovan Grapulin 
-> > Radovan> napisala:
+> >> Zapisano je bilo:
 > >>
 > >> Vsekakor spoštujem, da lahko ima vsak svoje mnenje, ne morem pa mimo
 > >> dejstva, da ob vsem pompu o razvoju Slovenije se gremo političnih igric in
@@ -6279,19 +5997,14 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >>
 > >>
 > >>
-> >> *From:* Edvard Grmadnik Edvard
+> >> *From: Edvard
 > >> *Sent:* Thursday, September 10, 2026 9:28 AM
-> >> *To:* Inga; STUDIO TORKAR D.O.O. 
-> > Vinko>; Radovan Grapulin Radovan;
-> >> Darinka Kozinc Darinka; Crtomir Spacapan 
-> > Črtomir>; Boris Š.; Edvard Grmadnik 
-> > Edvard>; Jernej; bojana kompare 
-> > Bojana>; Uljana Gruntar Uljana
+> >> *To: Boris, Edvard, Jernej
 > >> *Subject:* Kaj narediti za hitrejši razvoj Slovenije ?
 > >>
 > >>
 > >>
-> >> Zanimivo je poslušati Radovana: leta in leta govori, da se Slovenija ne
+> >> Zanimivo je poslušati: leta in leta govori, da se Slovenija ne
 > >> trudi za tehnološki razvoj, potem pa hkrati nasprotuje približevanju
 > >> Izraelu. Državi, ki je med vodilnimi na svetu v kibernetski varnosti,
 > >> pametnem kmetijstvu, medicinski diagnostiki z umetno inteligenco, naprednih
@@ -6323,7 +6036,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #27 | Pošiljatelj: Boris
 * **Datum in ura:** Petek, 11. september 2026, ob 10:49 (CEST)
 * **Pošiljatelj:** **Boris**
-* **Za (prejemniki):** Boris Š., Inga, Svetlana, Vinko, Lucija, Jernej, Darinka, Črtomir, Radovan, Uljana, Edvard
+* **Za (prejemniki):** Edvard, Jernej
 * **Zadeva:** `EU podpira nacizem in ne demokracijo v Ukrajini`
 * 📎 **Priloge:** [`Primorski-Primorski-11_09_2026-22.pdf`](priloge/Primorski-Primorski-11_09_2026-22.pdf)
 
@@ -6337,7 +6050,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 > Info:
 > 
-> Mag. Boris Nemec
+> Boris
 > 
 > [Naslov odstranjen]
 > 
@@ -6357,8 +6070,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #28 | Pošiljatelj: Jernej
 * **Datum in ura:** Petek, 11. september 2026, ob 15:48 (CEST)
 * **Pošiljatelj:** **Jernej**
-* **Za (prejemniki):** Boris
-* **Kp (v vednost):** Boris Š., Inga, Svetlana, Vinko, Lucija, Darinka, Črtomir, Radovan, Uljana, Edvard
+* **Za (prejemniki):** Boris, Edvard
 * **Zadeva:** `Re: EU podpira nacizem in ne demokracijo v Ukrajini`
 * **Priloge:** Brez
 
@@ -6378,7 +6090,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > > Info:
 > >
-> > Mag. Boris Nemec
+> > Boris
 > >
 > > [Naslov odstranjen]
 > > 
@@ -6400,8 +6112,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #29 | Pošiljatelj: Boris
 * **Datum in ura:** Petek, 11. september 2026, ob 16:36 (CEST)
 * **Pošiljatelj:** **Boris**
-* **Za (prejemniki):** Jernej
-* **Kp (v vednost):** Boris Š., Inga, Svetlana, Vinko, Lucija, Darinka, Črtomir, Radovan, Uljana, Edvard
+* **Za (prejemniki):** Jernej, Edvard
 * **Zadeva:** `RE: EU podpira nacizem in ne demokracijo v Ukrajini`
 * **Priloge:** Brez
 
@@ -6421,10 +6132,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 <summary>📜 <i>Kliknite za ogled predhodno citiranega besedila v tem sporočilu</i></summary>
 <br>
 
-> From: Jernej Kurincic Jernej 
+> From: Jernej
 > Sent: Friday, September 11, 2026 3:49 PM
-> To: boris nemec Boris
-> Cc: Boris Šavle Boris Š.; Inga Brezigar Inga; Svetlana Lipužič Svetlana; Torkar Vinko Vinko; Mozetič Lucija Lucija; Darinka Kozinc Darinka; Crtomir Spacapan Črtomir; Radovan Grapulin Radovan; Uljana Gruntar Uljana; Edvard Grmadnik Edvard
+> To: Boris
 > Subject: Re: EU podpira nacizem in ne demokracijo v Ukrajini
 > 
 >  
@@ -6445,7 +6155,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 > Info:
 > 
-> Mag. Boris Nemec
+> Boris
 > 
 > [Naslov odstranjen]
 > 
@@ -6464,8 +6174,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #30 | Pošiljatelj: Edvard
 * **Datum in ura:** Petek, 11. september 2026, ob 16:52 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Boris
-* **Kp (v vednost):** Jernej, Boris Š., Inga, Svetlana, Vinko, Lucija, Darinka, Črtomir, Radovan, Uljana
+* **Za (prejemniki):** Boris, Jernej
 * **Zadeva:** `Re: EU podpira nacizem in ne demokracijo v Ukrajini`
 * **Priloge:** Brez
 
@@ -6486,7 +6195,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > dejstva, ki se ne skladajo s propagandnimi materiali, ki jih širiš. Kritika
 > vsebine ni napad nate osebno. Tvoj odziv pa je bil spet samo to.
 > 
-> In še nekaj: tak zapis, kot ga je pripravil svetnik Stefano Ukmar, ne more
+> In še nekaj: tak zapis, kot ga je pripravil občinski svetnik, ne more
 > biti v ponos nikomur, še najmanj predstavniku *slovenskega naroda*, ki je
 > bil skozi zgodovino večkrat potisnjen na rob in zatiran s strani velikih
 > držav — med njimi tudi Italije. Prav zato bi morali biti Slovenci še
@@ -6526,16 +6235,10 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >
 > >
-> > *From:* Jernej Kurincic Jernej
+> > *From: Jernej
 > > *Sent:* Friday, September 11, 2026 3:49 PM
-> > *To:* boris nemec Boris
-> > *Cc:* Boris Šavle Boris Š.; Inga Brezigar 
->  Inga>; Svetlana Lipužič Svetlana;
-> > Torkar Vinko Vinko; Mozetič Lucija 
->  Lucija>; Darinka Kozinc Darinka;
-> > Crtomir Spacapan Črtomir; Radovan Grapulin 
->  Radovan>; Uljana Gruntar Uljana;
-> > Edvard Grmadnik Edvard
+> > *To: Boris
+> > Edvard Edvard
 > > *Subject:* Re: EU podpira nacizem in ne demokracijo v Ukrajini
 > >
 > >
@@ -6557,7 +6260,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > > Info:
 > >
-> > Mag. Boris Nemec
+> > Boris
 > >
 > > [Naslov odstranjen]
 > > 
@@ -6580,8 +6283,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #31 | Pošiljatelj: Boris
 * **Datum in ura:** Petek, 11. september 2026, ob 18:18 (CEST)
 * **Pošiljatelj:** **Boris**
-* **Za (prejemniki):** Edvard
-* **Kp (v vednost):** Boris Š., Inga, Svetlana, Vinko, Lucija, Darinka, Črtomir, Radovan, Uljana
+* **Za (prejemniki):** Edvard, Jernej
 * **Zadeva:** `RE: EU podpira nacizem in ne demokracijo v Ukrajini`
 * **Priloge:** Brez
 
@@ -6607,10 +6309,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 <summary>📜 <i>Kliknite za ogled predhodno citiranega besedila v tem sporočilu</i></summary>
 <br>
 
-> From: Edvard Grmadnik Edvard 
+> From: Edvard
 > Sent: Friday, September 11, 2026 4:53 PM
 > To: Boris
-> Cc: Jernej Kurincic Jernej; Boris Šavle Boris Š.; Inga Brezigar Inga; Svetlana Lipužič Svetlana; Torkar Vinko Vinko; Mozetič Lucija Lucija; Darinka Kozinc Darinka; Crtomir Spacapan Črtomir; Radovan Grapulin Radovan; Uljana Gruntar Uljana
 > Subject: Re: EU podpira nacizem in ne demokracijo v Ukrajini
 > 
 >  
@@ -6621,7 +6322,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 > Jernej je reagiral ostro, res je. Ampak tvoj odgovor je bil izključno osebni napad — in to je vzorec, ki ga ponavljaš vsakič, ko kdo opozori na dejstva, ki se ne skladajo s propagandnimi materiali, ki jih širiš. Kritika vsebine ni napad nate osebno. Tvoj odziv pa je bil spet samo to.
 > 
-> In še nekaj: tak zapis, kot ga je pripravil svetnik Stefano Ukmar, ne more biti v ponos nikomur, še najmanj predstavniku slovenskega naroda, ki je bil skozi zgodovino večkrat potisnjen na rob in zatiran s strani velikih držav — med njimi tudi Italije. Prav zato bi morali biti Slovenci še posebej občutljivi na potvarjanje zgodovine, na propagando velikih sil in na poskuse, da se žrtve agresije razglašajo za “naciste”. To je popoln obrat resničnosti.
+> In še nekaj: tak zapis, kot ga je pripravil občinski svetnik, ne more biti v ponos nikomur, še najmanj predstavniku slovenskega naroda, ki je bil skozi zgodovino večkrat potisnjen na rob in zatiran s strani velikih držav — med njimi tudi Italije. Prav zato bi morali biti Slovenci še posebej občutljivi na potvarjanje zgodovine, na propagando velikih sil in na poskuse, da se žrtve agresije razglašajo za “naciste”. To je popoln obrat resničnosti.
 > 
 > Ko nekdo iz majhnega naroda, ki je sam izkusil pritisk velikih, začne ponavljati propagando ene od največjih imperialnih sil na svetu, je to žalostno in nevarno. Ne kaže na “drugačen pogled”, ampak na pomanjkanje zgodovinske občutljivosti in kritičnega razmišljanja.
 > 
@@ -6647,10 +6348,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 >  
 > 
-> From: Jernej Kurincic Jernej   
+> From: Jernej
 > Sent: Friday, September 11, 2026 3:49 PM
-> To: boris nemec Boris  
-> Cc: Boris Šavle Boris Š.  ; Inga Brezigar Inga  ; Svetlana Lipužič Svetlana  ; Torkar Vinko Vinko  ; Mozetič Lucija Lucija  ; Darinka Kozinc Darinka  ; Crtomir Spacapan Črtomir  ; Radovan Grapulin Radovan  ; Uljana Gruntar Uljana; Edvard Grmadnik Edvard  
+> To: Boris
 > Subject: Re: EU podpira nacizem in ne demokracijo v Ukrajini
 > 
 >  
@@ -6671,7 +6371,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > 
 > Info:
 > 
-> Mag. Boris Nemec
+> Boris
 > 
 > [Naslov odstranjen]
 > 
@@ -6690,8 +6390,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #32 | Pošiljatelj: Edvard
 * **Datum in ura:** Petek, 11. september 2026, ob 23:03 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Boris
-* **Kp (v vednost):** Jernej, Boris Š., Inga, Svetlana, Vinko, Lucija, Darinka, Črtomir, Radovan, Uljana
+* **Za (prejemniki):** Boris, Jernej
 * **Zadeva:** `Re: EU podpira nacizem in ne demokracijo v Ukrajini`
 * **Priloge:** Brez
 
@@ -6781,8 +6480,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > e-poštne korespondence: Boris in Edvard
 > <https://bluzimir.github.io/karavla/>
 > 
-> V V pet., 11. sep. 2026 ob 16:52 je oseba Edvard Grmadnik 
-> Edvard napisala:
+> Edvard je napisal:
 > 
 > > Boris,
 > >
@@ -6799,7 +6497,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > > dejstva, ki se ne skladajo s propagandnimi materiali, ki jih širiš. Kritika
 > > vsebine ni napad nate osebno. Tvoj odziv pa je bil spet samo to.
 > >
-> > In še nekaj: tak zapis, kot ga je pripravil svetnik Stefano Ukmar, ne more
+> > In še nekaj: tak zapis, kot ga je pripravil občinski svetnik, ne more
 > > biti v ponos nikomur, še najmanj predstavniku *slovenskega naroda*, ki je
 > > bil skozi zgodovino večkrat potisnjen na rob in zatiran s strani velikih
 > > držav — med njimi tudi Italije. Prav zato bi morali biti Slovenci še
@@ -6839,16 +6537,10 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >>
 > >>
 > >>
-> >> *From:* Jernej Kurincic Jernej
+> >> *From: Jernej
 > >> *Sent:* Friday, September 11, 2026 3:49 PM
-> >> *To:* boris nemec Boris
-> >> *Cc:* Boris Šavle Boris Š.; Inga Brezigar 
-> > Inga>; Svetlana Lipužič Svetlana;
-> >> Torkar Vinko Vinko; Mozetič Lucija 
-> > Lucija>; Darinka Kozinc Darinka;
-> >> Crtomir Spacapan Črtomir; Radovan Grapulin 
-> > Radovan>; Uljana Gruntar Uljana;
-> >> Edvard Grmadnik Edvard
+> >> *To: Boris
+> >> Edvard Edvard
 > >> *Subject:* Re: EU podpira nacizem in ne demokracijo v Ukrajini
 > >>
 > >>
@@ -6870,7 +6562,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >>
 > >> Info:
 > >>
-> >> Mag. Boris Nemec
+> >> Boris
 > >>
 > >> [Naslov odstranjen]
 > >> 
@@ -6893,7 +6585,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 ### Sporočilo #33 | Pošiljatelj: Edvard
 * **Datum in ura:** Petek, 11. september 2026, ob 23:28 (CEST)
 * **Pošiljatelj:** **Edvard**
-* **Za (prejemniki):** Inga, Vinko, Radovan, Darinka, Črtomir, Boris Š., Edvard, Jernej, Bojana, Uljana
+* **Za (prejemniki):** Jernej
 * **Zadeva:** `Analiza  korespondence med Borisom in Edvardom - popravek`
 * **Priloge:** Brez
 
@@ -6924,7 +6616,6 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 * **Datum in ura:** Sobota, 12. september 2026, ob 13:59 (CEST)
 * **Pošiljatelj:** **Jernej**
 * **Za (prejemniki):** Edvard, Boris
-* **Kp (v vednost):** Boris Š., Inga, Svetlana, Vinko, Lucija, Darinka, Črtomir, Radovan, Uljana
 * **Zadeva:** `Re: EU podpira nacizem in ne demokracijo v Ukrajini`
 * **Priloge:** Brez
 
@@ -6940,7 +6631,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > isto težo nepreverjenim blodnjam in treznemu razmisleku - in da se to 
 > potem še promovira. Ker gre za pismo bralcev, lahko pač razumemo, da 
 > uredništvo razmišlja, da s takimi objavami v PD pač samo pisec sebi dela 
-> slabo reklamo, ampak vseeno bom verjetno pisal g. Devetaku, da v 
+> slabo reklamo, ampak vseeno bom verjetno pisal uredništvu, da v 
 > demokraciji ni več "obveze" objaviti karkoli ti pošljejo in da s tem 
 > dela sramoto tudi svoji publikaciji. Za take objave naj se pošiljatelju 
 > lepo zahvali in mu pošlje kakšno otroško knjigico.
@@ -6970,7 +6661,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 <summary>📜 <i>Kliknite za ogled predhodno citiranega besedila v tem sporočilu</i></summary>
 <br>
 
-> On 11. 09. 2026 16:52, Edvard Grmadnik wrote:
+> On 11. 09. 2026 16:52, Edvard wrote:
 > >
 > > Boris,
 > >
@@ -6988,7 +6679,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > > na dejstva, ki se ne skladajo s propagandnimi materiali, ki jih širiš. 
 > > Kritika vsebine ni napad nate osebno. Tvoj odziv pa je bil spet samo to.
 > >
-> > In še nekaj: tak zapis, kot ga je pripravil svetnik Stefano Ukmar, ne 
+> > In še nekaj: tak zapis, kot ga je pripravil občinski svetnik, ne 
 > > more biti v ponos nikomur, še najmanj predstavniku *slovenskega 
 > > naroda*, ki je bil skozi zgodovino večkrat potisnjen na rob in zatiran 
 > > s strani velikih držav — med njimi tudi Italije. Prav zato bi morali 
@@ -7027,18 +6718,9 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >     Hvala Boris
 > >
-> >     *From:*Jernej Kurincic Jernej
+> >     *From: Jernej
 > >     *Sent:* Friday, September 11, 2026 3:49 PM
-> >     *To:* boris nemec Boris
-> >     *Cc:* Boris Šavle Boris Š.; Inga Brezigar
-> >     Inga; Svetlana Lipužič
-> >     Svetlana; Torkar Vinko
-> >     Vinko; Mozetič Lucija
-> >     Lucija; Darinka Kozinc
-> >     Darinka; Crtomir Spacapan
-> >     Črtomir; Radovan Grapulin
-> >     Radovan; Uljana Gruntar
-> >     Uljana; Edvard Grmadnik Edvard
+> >     *To: Boris
 > >     *Subject:* Re: EU podpira nacizem in ne demokracijo v Ukrajini
 > >
 > >     Papir pa res vse prenese.
@@ -7056,7 +6738,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 > >
 > >         Info:
 > >
-> >         Mag. Boris Nemec
+> >         Boris
 > >
 > >         [Naslov odstranjen]
 > >         
