@@ -48,17 +48,17 @@ Za zagotovitev polne raziskovalne transparentnosti spodaj navajamo dobesedni pre
 Podrobna analiza besedila razkriva devet specifičnih tehnik informacijske manipulacije, značilnih za sodobno hibridno vojno in proruski dezinformacijski ekosistem:
 
 ### 1. Orwellianska inverzija realnosti (Popolna zamenjava vlog agresor–žrtev)
-* **Kje v besedilu:** Zaključna poanta članka: *»Zahodna propaganda bi nas želela prepričati, da se vojna bije med vrednotami naše demokracije in ruskim imperializmom, a marsikdo je že zdavnaj razumel, da se v resnici bije med nacizmom in demokracijo.«*
+* **Delno besedilo:** Zaključna poanta članka: *»Zahodna propaganda bi nas želela prepričati, da se vojna bije med vrednotami naše demokracije in ruskim imperializmom, a marsikdo je že zdavnaj razumel, da se v resnici bije med nacizmom in demokracijo.«*
 * **Mehanizem:** Tehnika temelji na popolnem preobratu realnih dejstev. Ruska federacija je avtoritarna država z zaprto opozicijo, prepovedanimi svobodnimi mediji in imperialističnimi ozemeljskimi apetiti, ki je napadla suvereno sosedo. Ukrajina je mednarodno priznana demokracija z izvoljenim parlamentom in predsednikom, ki brani svojo ozemeljsko celovitost.
 * **Manipulativni učinek:** Avtor bralcu vsili sklep, da je Rusija branilka »demokracije«, Ukrajina in celotna Evropska unija pa predstavljata »nacizem«. To je temeljni propagandni narativ Kremlja, ki agresijo preobleče v »osvobodilno protifašistično misijo«.
 
 ### 2. Uporaba uradnega kremeljskega cenzurnega besednjaka (Evfemizmi in delegitimizacija)
-* **Kje v besedilu:** *»Ruska posebna vojaška operacija pa se je začela komaj februarja leta 2022.«* ter *»...že od državnega udara leta 2014...«*.
+* **Delno besedilo:** *»Ruska posebna vojaška operacija pa se je začela komaj februarja leta 2022.«* ter *»...že od državnega udara leta 2014...«*.
 * **Mehanizem:** Avtor v osrednjem slovenskem zamejskem mediju ne uporabi besed *agresija*, *invazija*, *napad* ali *vojna*, temveč dobesedno povzame uradni evfemizem ruskega obrambnega ministrstva in Vladimirja Putina: **»posebna vojaška operacija«** (*специальная военная операция*). Za uporabo besede »vojna« je v Rusiji z zakonom zagrožena zaporna kazen do 15 let.
 * **Manipulativni učinek:** Z nekritičnim prevzemom cenzurnega izrazoslovja agresorja avtor bralcu podzavestno legitimira napad kot regularen, tehničen in omejen varnostni ukrep namesto rušilne totalne vojne. Dogodke na Majdanu leta 2014 pa označi s kremeljsko sintagmo »državni udar«, s čimer zanika voljo milijonov ukrajinskih državljanov, ki so zahtevali evropsko prihodnost in boj proti oligarhični korupciji.
 
 ### 3. Zloraba zgodovinske travme zamejskih Slovencev (Lažna ekvivalenca in moralno izsiljevanje)
-* **Kje v besedilu:** *»Zamejskim Slovencem je razloček na dlani, še zlasti krovnima organizacijama, Slovenski kulturno-gospodarski zvezi (SKGZ) in Svetu slovenskih organizacij (SSO), ter slovenskim strankam in komponentam, ki o grenki usodi avtohtonega ruskega jezika v Ukrajini, pa tudi v Baltskih državah, raje molčijo.«*
+* **Delno besedilo:** *»Zamejskim Slovencem je razloček na dlani, še zlasti krovnima organizacijama, Slovenski kulturno-gospodarski zvezi (SKGZ) in Svetu slovenskih organizacij (SSO), ter slovenskim strankam in komponentam, ki o grenki usodi avtohtonega ruskega jezika v Ukrajini, pa tudi v Baltskih državah, raje molčijo.«*
 * **Mehanizem:** Avtor cilja na zgodovinsko najobčutljivejšo točko skupnosti zamejskih Slovencev v Italiji: na fašistično raznarodovanje, prepoved slovenskega jezika, požig Narodnega doma v Trstu ter desetletja trajajoč boj za zaščitni zakon in šolstvo v materinščini. Nato postavi **lažno ekvivalenco** (*false equivalence*): položaj avtohtone slovenske manjšine v Italiji enači s statusom ruskega jezika v Ukrajini in na Baltiku.
 * **Manipulativni učinek:** 
   1. Zamolči bistveno zgodovinsko in geopolitično razliko: Slovenci v Italiji niso nikoli imeli za seboj sosednje 140-milijonske jedrske velesile, ki bi slovenski jezik izkoriščala kot doktrino za vojaško invazijo, bombardiranje mest in priključitev ozemelj pod parolo »kjer se govori slovensko, tam je naša država«.
@@ -66,31 +66,31 @@ Podrobna analiza besedila razkriva devet specifičnih tehnik informacijske manip
   3. Krovni organizaciji SKGZ in SSO ter slovenske predstavnike avtor poskuša moralno diskreditirati in jih obtožiti »hinavščine« (*»raje molčijo«*), ker ne podpirajo propagandnih tez Moskve.
 
 ### 4. Časovna manipulacija in izkrivljanje vzročnosti (*Post hoc ergo propter hoc*)
-* **Kje v besedilu:** *»Odločitev je sprejela Vrhovna rada, ukrajinski parlament, leta 2019 in to v državi, kjer je bila ruščina zgodovinsko zelo razširjen jezik. Ruska posebna vojaška operacija pa se je začela komaj februarja leta 2022. Datumi so namreč zelo važni za razumevanje celotne problematike.«*
+* **Delno besedilo:** *»Odločitev je sprejela Vrhovna rada, ukrajinski parlament, leta 2019 in to v državi, kjer je bila ruščina zgodovinsko zelo razširjen jezik. Ruska posebna vojaška operacija pa se je začela komaj februarja leta 2022. Datumi so namreč zelo važni za razumevanje celotne problematike.«*
 * **Mehanizem:** Avtor cinično zapiše, da so »datumi zelo važni«, nato pa sam zgradi grobo potvorjeno časovnico. Ustvari vtis, da je Ukrajina leta 2019 v miru in brez vsakega razloga »prepovedala« ruščino, Rusija pa se je šele leta 2022 odzvala z vojaškim posredovanjem.
 * **Dejstva, ki jih avtor prikrije:**
   * Ruska vojaška agresija proti Ukrajini se ni začela februarja 2022, temveč **februarja 2014** z nasilno vojaško zasedbo in aneksijo Krima ter začetkom oboroženega konflikta v Donbasu pod vodstvom ruskih častnikov (npr. Igor Girkin - Strelkov).
   * Sprejetje jezikovnega zakona leta 2019 je bila neposredna obrambna reakcija države, ki je bila **že pet let tarča odkrite ruske vojaške in hibridne agresije**, v kateri je ruski jezik služil kot glavno imperialno opravičilo za razbijanje ukrajinske ozemeljske celovitosti.
 
 ### 5. Sklepna napaka sestave (*Pars pro toto*) in krivda po asociaciji (*Guilt by Association*)
-* **Kje v besedilu:** *»Iz vrst slednjih so bili v spopadu vpleteni člani posebnega oddelka RDK (...), to je ruskih nacistov (...). Vodja ofenzivno obveščevalne službe GRU pa je bil do nedavnega Kiril Budanov, ki je današnji načelnik predsednikovega urada. Gre za tesnega sodelavca ukrajinskega predsednika Volodimirja Zelenskega in je torej zelo težko zanikati nacistični značaj kijevskega režima.«*
+* **Delno besedilo:** *»Iz vrst slednjih so bili v spopadu vpleteni člani posebnega oddelka RDK (...), to je ruskih nacistov (...). Vodja ofenzivno obveščevalne službe GRU pa je bil do nedavnega Kiril Budanov, ki je današnji načelnik predsednikovega urada. Gre za tesnega sodelavca ukrajinskega predsednika Volodimirja Zelenskega in je torej zelo težko zanikati nacistični značaj kijevskega režima.«*
 * **Mehanizem:** Avtor vzame obroben, lokalni incident (domnevni spopad v Kijevu z vpletenostjo posameznikov iz enote RDK) in izpelje orjaški, logično nevzdržen sklep:
   	ext{RDK (posamezni radikalci)} ightarrow 	ext{obveščevalna služba} ightarrow 	ext{Budanov} ightarrow 	ext{Zelenski} ightarrow 	extbf{»kijevski režim je nacističen«}
 * **Manipulativni učinek:** Gre za šolski primer logične napake sestave (*fallacy of composition*) in krivde po asociaciji. Iz dejstva, da se v obrambi pred uničenjem države v nekaterih enotah borijo tudi radikalni posamezniki (pri čemer je RDK sestavljen iz *ruskih* državljanov, ki nasprotujejo Putinu!), avtor celotni mednarodno priznani ukrajinski vladi in družbi pripiše »nacistični značaj«.
 
 ### 6. Faktografske neresnice in izmišljene državne funkcije
-* **Kje v besedilu:** Trditev o »ukrajinski GRU« in trditev, da je *»Kiril Budanov današnji načelnik predsednikovega urada«*.
+* **Delno besedilo:** Trditev o »ukrajinski GRU« in trditev, da je *»Kiril Budanov današnji načelnik predsednikovega urada«*.
 * **Dejstva:**
   1. **Napačna identifikacija službe:** Ukrajinska vojaška obveščevalna služba se imenuje **HUR MOU** (*Holovne upravlinnya rozvidky*). Kratica **GRU** (*Glavnoje razvedyvatelnoje upravlenije*) označuje **rusko** vojaško obveščevalno službo. Avtor v članku operira z napačno terminologijo.
   2. **Izmišljena funkcija:** Kirilo Budanov **nikoli ni bil načelnik predsednikovega urada**. Načelnik Urada predsednika Ukrajine je že od leta 2020 **Andrij Jermak** (*Andriy Yermak*). Budanov ostaja načelnik vojaške obveščevalne službe HUR. Avtor v javni prostor lansira popolne factual dezinformacije, ki jih povzema iz nepreverjenih spletnih govoric ali propagandnih kanalov.
 
 ### 7. Sklic na lažno avtoriteto in selektivno navajanje (*Cherry-picking*)
-* **Kje v besedilu:** *»V primeru RDK gre za ruske naciste, ki delujejo v vrstah ukrajinske vojske. Tako jih opisuje britanski dnevnik.«*
+* **Delno besedilo:** *»V primeru RDK gre za ruske naciste, ki delujejo v vrstah ukrajinske vojske. Tako jih opisuje britanski dnevnik.«*
 * **Mehanizem:** Avtor se pavšalno sklicuje na neimenovani »britanski dnevnik« (brez navedbe naslova, datuma ali avtorja članka), da bi svoji trditvi nadel videz nevtralne zahodne avtoritete (*argumentum ad verecundiam*).
 * **Manipulativni učinek:** Bralec dobi vtis, da celo britanski mediji potrjujejo avtorjevo tezo o »nacističnem značaju Kijeva«. V resnici so britanski mediji (kot sta *The Times* ali *The Guardian*) ob poročanju o vdorih RDK v rusko obmejno regijo Belgorod jasno poudarjali, da gre za specifično skupino ruskih desničarskih disidentov, ne pa za politično ideologijo ukrajinske države.
 
 ### 8. Kriminalizacija in demonizacija ukrajinske jezikovne zakonodaje
-* **Kje v besedilu:** Opis glob do 5.100 griven, opozoril pooblaščenke za jezik in trditev o »preganjanju ruščine izven šolskih prostorov«.
+* **Delno besedilo:** Opis glob do 5.100 griven, opozoril pooblaščenke za jezik in trditev o »preganjanju ruščine izven šolskih prostorov«.
 * **Mehanizem:** Avtor standardne ukrepe za uveljavitev uradnega državnega jezika v javnem šolstvu in uradni komunikaciji prikaže kot totalitarno inkvizicijo in teror nad prebivalstvom. Pri tem znesek 122 dolarjev primerja s povprečno plačo, da bi izzval zgražanje bralca.
 * **Kaj je zamolčano:**
   * V večini evropskih držav (Italija, Francija, Nemčija) je v javnih šolah obvezen državni jezik; uradna komunikacija ravnateljev in učiteljev poteka v uradnem jeziku.
@@ -98,7 +98,7 @@ Podrobna analiza besedila razkriva devet specifičnih tehnik informacijske manip
   * Avtor zamolči, da je Rusija na okupiranih ozemljih Ukrajine (Krim, Doneck, Lugansk, Zaporožje, Herson) **popolnoma izkoreninila ukrajinski jezik**, zaplenila in sežgala ukrajinske učbenike ter učitelje pod grožnjo aretacije prisilila v poučevanje po ruskem državnem kurikulumu.
 
 ### 9. Apel na navidezno »prebujeno« večino (*Bandwagon Fallacy*)
-* **Kje v besedilu:** *»...a marsikdo je že zdavnaj razumel, da se v resnici bije med nacizmom in demokracijo.«*
+* **Delno besedilo:** *»...a marsikdo je že zdavnaj razumel, da se v resnici bije med nacizmom in demokracijo.«*
 * **Mehanizem:** Raba fraze »marsikdo je že zdavnaj razumel« ustvarja vtis, da obstaja široka, razsvetljena skupina ljudi, ki sprevidi »zahodne laži«.
 * **Manipulativni učinek:** Bralcu, ki dvomi ali nasede tej retoriki, ponudi občutek intelektualne večvrednosti – da ne sodi med »naivne žrtve zahodne propagande«, temveč med tiste redke, ki poznajo »pravo resnico«.
 
