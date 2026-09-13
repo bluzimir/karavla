@@ -111,9 +111,19 @@ $$	ext{Skupna ocena podobnosti} = (0{,}25 	imes 98) + (0{,}35 	imes 96) + (0{,}2
 ## 5. KLJUČNE UGOTOVITVE IN ZAKLJUČEK
 
 1. **Sistematično širjenje proruskih stališč:** Boris v analiziranem obdobju (september 2026) ni nastopal kot nevtralen opazovalec, temveč je v skupinsko korespondenco načrtno vnašal gradiva in stališča, ki legitimirajo rusko vojaško agresijo.
-2. **Distribucija zunanjih propagandnih virov:** Z razpošiljanjem članka občinskega občinskega svetnika iz *Primorskega dnevnika* (pod naslovom *»EU podpira nacizem in ne demokracijo v Ukrajini«*) je neposredno širil temeljni propagandni konstrukt Kremlja o »denacifikaciji«.
+2. **Distribucija zunanjih propagandnih virov:** Z razpošiljanjem članka občinskega svetnika iz *Primorskega dnevnika* (pod naslovom *»EU podpira nacizem in ne demokracijo v Ukrajini«*) je neposredno širil temeljni propagandni konstrukt Kremlja o »denacifikaciji«.
 3. **Politična usmeritev v podporo proruskim strankam:** V svojih sporočilih odprto promovira zahteve nemške stranke AfD po prekinitvi sankcij proti Rusiji, ustavitvi vojaške pomoči Ukrajini in ponovnem uvozu ruskega plina.
 4. **Reakcija na opozorila sogovornikov:** Ob argumentiranih pomislekih Edvarda in Jerneja se je poslužil tipičnih tehnik diskreditacije (očitki o »rusofobiji«, »plačanih bruseljskih lažeh« ter umik iz nadaljnjega dialoga).
 
 ---
 *Poročilo je bilo pripravljeno na podlagi analize e-poštnih sporočil in priloženih dokumentov dne 11. 9. 2026.*
+
+---
+
+## 6. NAVIGACIJA IN POVEZANE VSEBINE
+
+* 🏠 **[Glavna stran dokumentacije (README.md)](README.md)**
+* 🏛️ **[Poročilo o odgovorih Edvarda in zgodovinskih dejstvih](porocilo_odgovori_edvard.md)**
+* 🔬 **[Kritična analiza članka »Boj med nacizmom in demokracijo«](analiza_clanka_boj_med_nacizmom_in_demokracijo.md)**
+* 🌍 **[Vojna v Ukrajini: Štiri leta in pol ruske agresije in posledice](posledice_vojne_v_ukrajini.md)**
+* 📨 **[Kronološko zbrana sporočila korespondence](zbrana_sporocila.md)**

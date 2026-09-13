@@ -75,7 +75,11 @@ Podrobna analiza besedila razkriva devet specifičnih tehnik informacijske manip
 ### 5. Sklepna napaka sestave (*Pars pro toto*) in krivda po asociaciji (*Guilt by Association*)
 * **Delno besedilo:** *»Iz vrst slednjih so bili v spopadu vpleteni člani posebnega oddelka RDK (...), to je ruskih nacistov (...). Vodja ofenzivno obveščevalne službe GRU pa je bil do nedavnega Kiril Budanov, ki je današnji načelnik predsednikovega urada. Gre za tesnega sodelavca ukrajinskega predsednika Volodimirja Zelenskega in je torej zelo težko zanikati nacistični značaj kijevskega režima.«*
 * **Mehanizem:** Avtor vzame obroben, lokalni incident (domnevni spopad v Kijevu z vpletenostjo posameznikov iz enote RDK) in izpelje orjaški, logično nevzdržen sklep:
-  	ext{RDK (posamezni radikalci)} ightarrow 	ext{obveščevalna služba} ightarrow 	ext{Budanov} ightarrow 	ext{Zelenski} ightarrow 	extbf{»kijevski režim je nacističen«}
+  	ext{RDK (posamezni radikalci)} 
+ightarrow 	ext{obveščevalna služba} 
+ightarrow 	ext{Budanov} 
+ightarrow 	ext{Zelenski} 
+ightarrow 	extbf{»kijevski režim je nacističen«}
 * **Manipulativni učinek:** Gre za šolski primer logične napake sestave (*fallacy of composition*) in krivde po asociaciji. Iz dejstva, da se v obrambi pred uničenjem države v nekaterih enotah borijo tudi radikalni posamezniki (pri čemer je RDK sestavljen iz *ruskih* državljanov, ki nasprotujejo Putinu!), avtor celotni mednarodno priznani ukrajinski vladi in družbi pripiše »nacistični značaj«.
 
 ### 6. Faktografske neresnice in izmišljene državne funkcije
@@ -132,5 +136,6 @@ Objavljeni prispevek v *Primorskem dnevniku* predstavlja nazoren primer t. i. **
 * 🏠 **[Glavna stran dokumentacije (README.md)](README.md)**
 * 📊 **[Poročilo o sporočilih Borisa in ruski propagandi](porocilo_propaganda_boris.md)**
 * 🏛️ **[Poročilo o odgovorih Edvarda in zgodovinskih dejstvih](porocilo_odgovori_edvard.md)**
+* 🌍 **[Vojna v Ukrajini: Štiri leta in pol ruske agresije in posledice](posledice_vojne_v_ukrajini.md)**
 * 📬 **[Kronološko zbrana sporočila (zbrana_sporocila.md)](zbrana_sporocila.md)**
 * 📎 **[Izvirni PDF članek v arhivu repozitorija](priloge/Primorski-Primorski-11_09_2026-22.pdf)**

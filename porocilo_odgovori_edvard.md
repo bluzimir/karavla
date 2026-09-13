@@ -161,3 +161,13 @@ Edvardovi odgovori v celoti prestanejo strokovno zgodovinsko in faktografsko pre
 
 ---
 *Poročilo je bilo pripravljeno na podlagi analize e-poštne korespondence in primarnih zgodovinskih virov dne 11. 9. 2026.*
+
+---
+
+## 7. NAVIGACIJA IN POVEZANE VSEBINE
+
+* 🏠 **[Glavna stran dokumentacije (README.md)](README.md)**
+* 📊 **[Poročilo o sporočilih Borisa in ruski propagandi](porocilo_propaganda_boris.md)**
+* 🔬 **[Kritična analiza članka »Boj med nacizmom in demokracijo«](analiza_clanka_boj_med_nacizmom_in_demokracijo.md)**
+* 🌍 **[Vojna v Ukrajini: Štiri leta in pol ruske agresije in posledice](posledice_vojne_v_ukrajini.md)**
+* 📨 **[Kronološko zbrana sporočila korespondence](zbrana_sporocila.md)**
