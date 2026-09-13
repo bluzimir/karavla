@@ -6038,7 +6038,7 @@ Vsa poslana gradiva in priponke so trajno shranjene v arhivu repozitorija v mapi
 * **Pošiljatelj:** **Boris**
 * **Za (prejemniki):** Edvard, Jernej
 * **Zadeva:** `EU podpira nacizem in ne demokracijo v Ukrajini`
-* 📎 **Priloge:** [`Primorski-Primorski-11_09_2026-22.pdf`](priloge/Primorski-Primorski-11_09_2026-22.pdf)
+* 📎 **Priloge:** [`Primorski-Primorski-11_09_2026-22.pdf`](priloge/Primorski-Primorski-11_09_2026-22.pdf) *(🔬 [Preberi podrobno analizo manipulativnih tehnik tega članka](analiza_clanka_boj_med_nacizmom_in_demokracijo.md))*
 
 **Vsebina sporočila:**
 

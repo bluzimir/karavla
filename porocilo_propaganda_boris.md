@@ -24,7 +24,7 @@ V obdobju od 1. septembra 2026 do 11. septembra 2026 je bilo v poštnem predalu 
 | **6** | `55156` | 9. 9. 2026, 22:24 | `RE:` | Za: Edvard<br>Kp: 9 oseb | Brez | Trditev, da Stalin ni napadel Poljske, ampak jo je šel 17. 9. 1939 »osvobajat«; očitki desničarjem o potvarjanju zgodovine. |
 | **7** | `55160` | 9. 9. 2026, 22:38 | `RE:` | Za: Edvard<br>Kp: 9 oseb | Brez | Whataboutism: primerjava stalinističnih zločinov z zahodnim kolonializmom (Kongo, Vietnam, poboji staroselcev); »Zahodni režimi so večji zločinci od Stalina«. |
 | **8** | `55181` | 10. 9. 2026, 10:49 | `RE:` | Za: Edvard<br>Kp: 9 oseb | Brez | Zavračanje dialoga z Edvardom; označevanje sogovornika za »zaslepljenega vernika«. |
-| **9** | `55235` | 11. 9. 2026, 10:49 | `EU podpira nacizem in ne demokracijo v Ukrajini` | Za: Edvard, Jernej | [`Primorski-Primorski-11_09_2026-22.pdf`](priloge/Primorski-Primorski-11_09_2026-22.pdf) | Ključni propagandni mail z zadevo o »nacizmu v Ukrajini« in priloženim člankom tržaškega občinskega občinskega svetnika iz Primorskega dnevnika. |
+| **9** | `55235` | 11. 9. 2026, 10:49 | `EU podpira nacizem in ne demokracijo v Ukrajini` | Za: Edvard, Jernej | [`Primorski-Primorski-11_09_2026-22.pdf`](priloge/Primorski-Primorski-11_09_2026-22.pdf) | Ključni propagandni mail z zadevo o »nacizmu v Ukrajini« in priloženim člankom tržaškega občinskega svetnika iz Primorskega dnevnika. |
 | **10** | `55262` | 11. 9. 2026, 16:36 | `RE: EU podpira nacizem in ne demokracijo v Ukrajini` | Za: Jernej<br>Kp: 9 oseb | Brez | Ostri osebni obračun z Jernejem po njegovi kritiki poslanega propagandnega gradiva; napoved izbrisa iz dopisnega seznama. |
 | **11** | `55266` | 11. 9. 2026, 18:18 | `RE: EU podpira nacizem in ne demokracijo v Ukrajini` | Za: Edvard<br>Kp: 8 oseb | Brez | Obtožbe o širjenju »lažnive zahodne propagande«, »rusofobiji«, zagovor Putina (v primerjavi z Netanjahujem) in napoved umika iz razprav. |
 
@@ -39,6 +39,11 @@ To je osrednji neposredni prispevek o vojni v Ukrajini:
 - **Zadeva sporočila:** Boris je sam izbral naslov: *»EU podpira nacizem in ne demokracijo v Ukrajini«*.
 - **Borisov spremni komentar:** *»Ni zraslo na mojem zelniku, pač pa na zelniku resnicoljubneža iz Trsta.«* S tem se v celoti identificira z vsebino in jo ponuja kot nesporno resnico.
 - **Vsebina priloženega članka (avtor tržaški občinski svetnik, Primorski dnevnik, 11. 9. 2026, str. 22, »Boj med nacizmom in demokracijo«):**
+
+  > 🔬 **Posebna podrobna analiza članka:**  
+  > Za celovito razčlenitev vseh 9 manipulativnih tehnik, lažnih analogij in faktografskih napak tega prispevka glejte samostojno stran:  
+  > ➡️ **[Kritična analiza članka »Boj med nacizmom in demokracijo« (Primorski dnevnik)](analiza_clanka_boj_med_nacizmom_in_demokracijo.md)** *(spletni ogled: [bluzimir.github.io/karavla/analiza_clanka_boj_med_nacizmom_in_demokracijo](https://bluzimir.github.io/karavla/analiza_clanka_boj_med_nacizmom_in_demokracijo))*
+
   1. *Trditev o nacizmu v Kijevu:* Vojna naj se ne bi bila med demokracijo in ruskim imperializmom, temveč med »nacizmom in demokracijo«.
   2. *Incident med službama SBU in GRU:* Izpostavlja strelski spopad v Kijevu (2. septembra) in vpletenost RDK (Ruski prostovoljni korpus), ki jih označi za *»ruske naciste, ki se že od državnega udara leta 2014 borijo v vrstah ukrajinske vojske v Donbasu proti svojim rojakom«*.
   3. *Karakterizacija oblasti:* Prek vodstva obveščevalcev in predsednika Zelenskega avtor izpelje sklep, da je *»zelo težko zanikati nacistični značaj kijevskega režima«*.

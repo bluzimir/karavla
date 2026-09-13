@@ -10,7 +10,7 @@ Dobrodošli v osrednji dokumentaciji analitične preiskave e-poštne koresponden
 Celotna analiza in dokumentacija je razdeljena na tri medsebojno povezane dokumente:
 
 1. 📄 **[Poročilo o sporočilih Borisa in ruski propagandi](porocilo_propaganda_boris.md)** *(spletni ogled: [bluzimir.github.io/karavla/porocilo_propaganda_boris](https://bluzimir.github.io/karavla/porocilo_propaganda_boris))*  
-   *Pregled 11 prispelih sporočil pošiljatelja Boris, analiza posredovanih gradiv (članek tržaškega občinskega svetnika Stefana, slikovna priloga paktov) ter sistematična primerjava z uradnimi narativi Kremlja z odstotkovno oceno skladnosti.*
+   *Pregled 11 prispelih sporočil pošiljatelja Boris, analiza posredovanih gradiv (članek tržaškega občinskega svetnika, slikovna priloga paktov) ter sistematična primerjava z uradnimi narativi Kremlja z odstotkovno oceno skladnosti.*
 2. 📄 **[Poročilo o odgovorih Edvarda in zgodovinskih dejstvih](porocilo_odgovori_edvard.md)** *(spletni ogled: [bluzimir.github.io/karavla/porocilo_odgovori_edvard](https://bluzimir.github.io/karavla/porocilo_odgovori_edvard))*  
    *Pregled 7 ključnih odgovorov pošiljatelja Edvard, faktografsko preverjanje ob primarnih virih in mednarodnih pogodbah ter ocena skladnosti s splošno sprejetim sodobnim zgodovinopisjem.*
 3. 📨 **[Zbrana e-poštna sporočila in priloge (Boris, Edvard, Jernej)](zbrana_sporocila.md)** *(spletni ogled: [bluzimir.github.io/karavla/zbrana_sporocila](https://bluzimir.github.io/karavla/zbrana_sporocila))*  
@@ -24,7 +24,7 @@ Celotna analiza in dokumentacija je razdeljena na tri medsebojno povezane dokume
 ## 2. OPIS IN KONTEKST ANALIZE
 
 ### Ozadje
-Med 7. in 11. septembrom 2026 se je v e-poštni skupini razvila intenzivna polemika. Boris je v skupino posredoval več prispevkov, v katerih je promoviral stališča nemške stranke AfD, nasprotoval oboroževanju Ukrajine, napadal ukrajinske begunce, opravičeval pakt Molotov-Ribbentrop ter nazadnje posredoval članek tržaškega občinskega svetnika Stefana z naslovom *»Boj med nacizmom in demokracijo«* pod lastno zadevo *»EU podpira nacizem in ne demokracijo v Ukrajini«*.
+Med 7. in 11. septembrom 2026 se je v e-poštni skupini razvila intenzivna polemika. Boris je v skupino posredoval več prispevkov, v katerih je promoviral stališča nemške stranke AfD, nasprotoval oboroževanju Ukrajine, napadal ukrajinske begunce, opravičeval pakt Molotov-Ribbentrop ter nazadnje posredoval članek tržaškega občinskega svetnika z naslovom *»Boj med nacizmom in demokracijo«* pod lastno zadevo *»EU podpira nacizem in ne demokracijo v Ukrajini«*.
 
 Edvard se je na te prispevke odzval z vrsto argumentiranih replik, v katerih je opozoril na nekritično širjenje kremeljske propagande (Russia Today), navedel primarne arhivske vire o razdelitvi Poljske leta 1939, zavrnil lažne primerjave s slovensko Primorsko ter izpostavil moralno nesprejemljivost tega, da pripadnik zgodovinsko zatiranega manjšega naroda prevzema imperialno propagando agresorja.
 
@@ -45,7 +45,7 @@ Analiza temelji na neposrednem preučevanju primarnih komunikacijskih virov ter 
 3. **Edvardova sporočila:** Vsebinske replike in analize (7 osrednjih odgovorov na propagando ter spremljajoča pojasnila skupini).
 4. **Jernejeva sporočila:** 2 sporočili (11. in 12. 9. 2026) s kritičnim odzivom na propagandni članek in refleksijo o kulturi dialoga.
 5. **Vse shranjene priloge (mapa [`priloge/`](priloge/)):**
-   - 📄 [`Primorski-Primorski-11_09_2026-22.pdf`](priloge/Primorski-Primorski-11_09_2026-22.pdf) – objava članka tržaškega občinskega svetnika Stefana Ukmarja *»Boj med nacizmom in demokracijo«* v *Primorskem dnevniku* (Trst, 11. 9. 2026, str. 22).
+   - 📄 [`Primorski-Primorski-11_09_2026-22.pdf`](priloge/Primorski-Primorski-11_09_2026-22.pdf) – objava članka tržaškega občinskega svetnika tržaškega občinskega svetnika *»Boj med nacizmom in demokracijo«* v *Primorskem dnevniku* (Trst, 11. 9. 2026, str. 22).
    - 🖼️ [`Hiteljevi pakti.jpg`](priloge/Hiteljevi%20pakti.jpg) – preglednica predvojnih pogodb z nacistično Nemčijo, posredovana s strani Borisa.
    - 🖼️ [`graf_house_of_freedom.png`](priloge/graf_house_of_freedom.png) – primerjalni graf političnih svoboščin v članicah SCO (Freedom House), posredovan s strani Edvarda.
    - 🖼️ [`edvard_5456_image.png`](priloge/edvard_5456_image.png) – zapis analitika o volitvah v Saški in analizi volilnega telesa AfD.
@@ -108,6 +108,8 @@ Za podroben vpogled v posamezne segmente analize odprite ustrezni dokument prek 
   ➡️ Odprite **[porocilo_propaganda_boris.md](porocilo_propaganda_boris.md)**
 * Če vas zanima faktografska presoja odgovorov Edvarda:  
   ➡️ Odprite **[porocilo_odgovori_edvard.md](porocilo_odgovori_edvard.md)**
+* Če vas zanima podrobna razčlenitev propagandnega članka iz Primorskega dnevnika:  
+  ➡️ Odprite **[analiza_clanka_boj_med_nacizmom_in_demokracijo.md](analiza_clanka_boj_med_nacizmom_in_demokracijo.md)**
 * Če želite prebrati celotno izvirno korespondenco in si ogledati vse priloge:  
   ➡️ Odprite **[zbrana_sporocila.md](zbrana_sporocila.md)**
 
