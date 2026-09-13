@@ -5,7 +5,8 @@
 **Preiskovani pošiljatelj:** Boris  
 **Vir podatkov:** Prejeta e-poštna sporočila v poštnem predalu  
 **Povezava na kazalo:** [Glavno kazalo in viri (README.md)](README.md)  
-**Povezava na povezano poročilo:** [Poročilo o odgovorih Edvarda in zgodovinskih dejstvih](porocilo_odgovori_edvard.md)
+**Povezava na povezano poročilo:** [Poročilo o odgovorih Edvarda in zgodovinskih dejstvih](porocilo_odgovori_edvard.md)  
+**Povezava na celotno korespondenco:** [Zbrana e-poštna sporočila in priloge](zbrana_sporocila.md)
 
 ---
 
@@ -18,12 +19,12 @@ V obdobju od 1. septembra 2026 do 11. septembra 2026 je bilo v poštnem predalu 
 | **1** | `55029` | 7. 9. 2026, 10:35 | `RE:` | Za: Edvard, Darinka<br>Kp: 9 oseb (Radovan, Boris Š., Vinko, Bojana, Jernej, Inga, Lucija, Svetlana, Uljana) | Brez | Napad na zahodno demokracijo; volitve v Saški-Anhalt; Nemčija kot »ameriška kolonija«; mahanje z ruskimi zastavami. |
 | **2** | `55102` | 9. 9. 2026, 09:54 | `RE:` | Za: Edvard<br>Kp: 9 oseb | Brez | Zagovor stranke AfD; očitki Kijevu in beguncem; poziv k nakupu poceni ruskega plina; zavezniško bombardiranje Nordhausna 1945; britanski imperializem. |
 | **3** | `55147` | 9. 9. 2026, 20:39 | `RE:` | Za: Edvard | Brez | Kratek uvodni nagovor (posredovana prejšnja razprava). |
-| **4** | `55151` | 9. 9. 2026, 20:51 | `RE:` | Za: Edvard<br>Kp: 9 oseb | `Hiteljevi pakti.jpg` | Zagovor pakta Molotov-Ribbentrop; trditev, da so Angleži večji zločinci od nacistov; seznam evropskih sporazumov s Hitlerjem. |
+| **4** | `55151` | 9. 9. 2026, 20:51 | `RE:` | Za: Edvard<br>Kp: 9 oseb | [`Hiteljevi pakti.jpg`](priloge/Hiteljevi%20pakti.jpg) | Zagovor pakta Molotov-Ribbentrop; trditev, da so Angleži večji zločinci od nacistov; seznam evropskih sporazumov s Hitlerjem. |
 | **5** | `55154` | 9. 9. 2026, 22:01 | `RE:` | Za: Edvard<br>Kp: 9 oseb | Brez | Opravičevanje sporazuma Hitler-Stalin kot »najbolj poštenega«; sovjetska zasedba Poljske kot vrnitev Curzonove črte; primerjava s Primorsko. |
 | **6** | `55156` | 9. 9. 2026, 22:24 | `RE:` | Za: Edvard<br>Kp: 9 oseb | Brez | Trditev, da Stalin ni napadel Poljske, ampak jo je šel 17. 9. 1939 »osvobajat«; očitki desničarjem o potvarjanju zgodovine. |
 | **7** | `55160` | 9. 9. 2026, 22:38 | `RE:` | Za: Edvard<br>Kp: 9 oseb | Brez | Whataboutism: primerjava stalinističnih zločinov z zahodnim kolonializmom (Kongo, Vietnam, poboji staroselcev); »Zahodni režimi so večji zločinci od Stalina«. |
 | **8** | `55181` | 10. 9. 2026, 10:49 | `RE:` | Za: Edvard<br>Kp: 9 oseb | Brez | Zavračanje dialoga z Edvardom; označevanje sogovornika za »zaslepljenega vernika«. |
-| **9** | `55235` | 11. 9. 2026, 10:49 | `EU podpira nacizem in ne demokracijo v Ukrajini` | Za: 11 oseb (Edvard, Boris Š., Darinka, Jernej, Radovan, Svetlana, Lucija, Inga, Uljana, Črtomir, Vinko) | `Primorski-Primorski-11_09_2026-22.pdf` | Ključni propagandni mail z zadevo o »nacizmu v Ukrajini« in priloženim člankom tržaškega občinskega svetnika Stefana iz Primorskega dnevnika. |
+| **9** | `55235` | 11. 9. 2026, 10:49 | `EU podpira nacizem in ne demokracijo v Ukrajini` | Za: 11 oseb (Edvard, Boris Š., Darinka, Jernej, Radovan, Svetlana, Lucija, Inga, Uljana, Črtomir, Vinko) | [`Primorski-Primorski-11_09_2026-22.pdf`](priloge/Primorski-Primorski-11_09_2026-22.pdf) | Ključni propagandni mail z zadevo o »nacizmu v Ukrajini« in priloženim člankom tržaškega občinskega svetnika Stefana iz Primorskega dnevnika. |
 | **10** | `55262` | 11. 9. 2026, 16:36 | `RE: EU podpira nacizem in ne demokracijo v Ukrajini` | Za: Jernej<br>Kp: 9 oseb | Brez | Ostri osebni obračun z Jernejem po njegovi kritiki poslanega propagandnega gradiva; napoved izbrisa iz dopisnega seznama. |
 | **11** | `55266` | 11. 9. 2026, 18:18 | `RE: EU podpira nacizem in ne demokracijo v Ukrajini` | Za: Edvard<br>Kp: 8 oseb | Brez | Obtožbe o širjenju »lažnive zahodne propagande«, »rusofobiji«, zagovor Putina (v primerjavi z Netanjahujem) in napoved umika iz razprav. |
 

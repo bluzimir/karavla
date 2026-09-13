@@ -5,7 +5,8 @@
 **Naslovnik / sogovornik:** Boris  
 **Kontekst razprave:** E-poštna dopisna skupina o geopolitiki, vojni v Ukrajini, paktu Molotov-Ribbentrop in zgodovinskih dejstvih  
 **Povezava na kazalo:** [Glavno kazalo in viri (README.md)](README.md)  
-**Povezava na povezano poročilo:** [Poročilo o sporočilih Borisa in ruski propagandi](porocilo_propaganda_boris.md)
+**Povezava na povezano poročilo:** [Poročilo o sporočilih Borisa in ruski propagandi](porocilo_propaganda_boris.md)  
+**Povezava na celotno korespondenco:** [Zbrana e-poštna sporočila in priloge](zbrana_sporocila.md)
 
 ---
 
