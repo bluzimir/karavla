@@ -121,5 +121,6 @@ Demokratični svet zato enotno vztraja: **mir v Ukrajini je mogoč le na temelji
 * 🏠 **[Glavna stran dokumentacije (README.md)](README.md)**
 * 📊 **[Poročilo o sporočilih Borisa in ruski propagandi](porocilo_propaganda_boris.md)**
 * 🏛️ **[Poročilo o odgovorih Edvarda in zgodovinskih dejstvih](porocilo_odgovori_edvard.md)**
+* 🎬 **[Video posnetki skupne parade v Brest-Litovsku 1939](videos_nemcija_rusija_brest_1939.md)**
 * 🔬 **[Kritična analiza članka »Boj med nacizmom in demokracijo«](analiza_clanka_boj_med_nacizmom_in_demokracijo.md)**
 * 📨 **[Kronološko zbrana sporočila korespondence](zbrana_sporocila.md)**

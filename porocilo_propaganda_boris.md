@@ -124,6 +124,7 @@ $$	ext{Skupna ocena podobnosti} = (0{,}25 	imes 98) + (0{,}35 	imes 96) + (0{,}2
 
 * 🏠 **[Glavna stran dokumentacije (README.md)](README.md)**
 * 🏛️ **[Poročilo o odgovorih Edvarda in zgodovinskih dejstvih](porocilo_odgovori_edvard.md)**
+* 🎬 **[Video posnetki skupne parade v Brest-Litovsku 1939](videos_nemcija_rusija_brest_1939.md)**
 * 🔬 **[Kritična analiza članka »Boj med nacizmom in demokracijo«](analiza_clanka_boj_med_nacizmom_in_demokracijo.md)**
 * 🌍 **[Vojna v Ukrajini: Štiri leta in pol ruske agresije in posledice](posledice_vojne_v_ukrajini.md)**
 * 📨 **[Kronološko zbrana sporočila korespondence](zbrana_sporocila.md)**

@@ -98,7 +98,7 @@ V spodnji analizi so podrobno preverjene vse ključne trditve Edvarda v primerja
   - Poljska je bila polnopravna članica Društva narodov z mednarodno priznanimi mejami.
   - ZSSR in Poljska sta imeli podpisan pakt o nenapadanju (podpisan 1932, leta 1934 podaljšan do leta 1945).
   - Vdor Rdeče armade 17. septembra 1939 je bil neizzvana agresija in groba kršitev veljavnega sporazuma.
-  - O stopnji nemško-sovjetskega usklajevanja priča skupna zmagovalna vojaška parada Wehrmachta in Rdeče armade v Brest-Litovsku 22. septembra 1939, ki sta jo vodila general Heinz Guderian in kombrig Semjon Krivošein.
+  - O stopnji nemško-sovjetskega usklajevanja priča skupna zmagovalna vojaška parada Wehrmachta in Rdeče armade v Brest-Litovsku 22. septembra 1939, ki sta jo vodila general Heinz Guderian in kombrig Semjon Krivošein. *(🎬 [Oglejte si izvirne video posnetke in arhivske fotografije parade v Brest-Litovsku](videos_nemcija_rusija_brest_1939.md))*
   - Trditev, da je šlo za »osvobajanje«, je bila uradna propaganda Stalina, ki se v mednarodnem zgodovinopisju obravnava izključno kot ciničen propagandni konstrukt.
 
 ### C. Curzonova linija in Rigški mir (1921)
