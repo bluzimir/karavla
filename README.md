@@ -1,6 +1,11 @@
 # ANALIZA E-POŠTNE KORESPONDENCE: BORIS IN EDVARD (SEPTEMBER 2026)
 ### *Primerjalna študija ruske vojne propagande, zgodovinskih dejstev in argumentacijske integritete*
 
+[![Licenca: MIT](https://img.shields.io/badge/Licenca-MIT-blue.svg)](LICENSE)
+[![GitHub Pages](https://img.shields.io/badge/Spletna%20stran-GitHub%20Pages-success.svg)](https://bluzimir.github.io/karavla/)
+
+> ⚖️ **Odprta in liberalna licenca:** Celotna vsebina, poročila, analitična besedila in koda v tem repozitoriju so objavljeni pod liberalno **[licenco MIT](LICENSE)** ter so prosto dostopni za preučevanje, raziskovanje, citiranje in deljenje.
+
 Dobrodošli v osrednji dokumentaciji analitične preiskave e-poštne korespondence, ki je potekala med 1. in 11. septembrom 2026 v širši dopisni skupini (večinoma goriški kulturni in družbeni krogi). Preiskava je bila sprožena na podlagi razprav o vojni v Ukrajini, paktu Molotov-Ribbentrop in geopolitičnih vprašanjih.
 
 ---
@@ -123,6 +128,16 @@ Za podroben vpogled v posamezne segmente analize odprite ustrezni dokument prek 
   ➡️ Odprite **[posledice_vojne_v_ukrajini.md](posledice_vojne_v_ukrajini.md)**
 * Če želite prebrati celotno izvirno korespondenco in si ogledati vse priloge:  
   ➡️ Odprite **[zbrana_sporocila.md](zbrana_sporocila.md)**
+
+---
+
+## 6. LICENCA IN ODPRTA RABA GRADIVA
+
+Vsa zbrana dokumentacija, analitična besedila, poročila, tabele in spremljajoča koda v tem repozitoriju so prosto dostopni pod odprto in liberalno licenco **[MIT License](LICENSE)**:
+
+* 📖 **Prosto branje in preučevanje:** Vsa gradiva so namenjena javni seznanitvi, izobraževanju in raziskovalni dejavnosti.
+* 🔄 **Deljenje in ponovna uporaba:** Dovoljena je prosta distribucija, reproduciranje, vključevanje v druge analize in objavljanje z navedbo avtorstva in licence.
+* ⚖️ **Avtorske pravice zunanjih prilog:** Izvirni arhivski dokumenti, uradne fotografije in video posnetki v mapi [`priloge/`](priloge/) pripadajo njihovim avtorjem oziroma javnim arhivom (Creative Commons, arhivska javna domena ali novinarski arhivi Bundesarchiv, AP, Reuters, NYT, BBC), kot je specificirano ob vsaki enoti gradiva.
 
 ---
 *Dokumentacija je bila urejena in arhivirana v septembru 2026.*
