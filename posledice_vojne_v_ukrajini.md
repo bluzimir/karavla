@@ -61,42 +61,33 @@ Evropska unija je prvič v zgodovini soglasno aktivirala *Direktivo o začasni z
 
 ### 📸 FOTOGRAFSKA DOKUMENTACIJA: Ljudje, begunci in razbita življenja
 
-<div style="background: #ffffff; border: 1px solid #d8dee4; border-radius: 8px; padding: 18px; margin: 22px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.06);">
-  <a href="priloge/irpin_porusen_most_evakuacija.jpg" target="_blank">
-    <img src="priloge/irpin_porusen_most_evakuacija.jpg" alt="Evakuacija civilistov pod porušenim mostom v Irpinu" style="width: 100%; height: auto; border-radius: 6px; display: block; margin-bottom: 12px;">
-  </a>
-  <p style="margin: 0; font-size: 0.93em; color: #24292f; line-height: 1.5;">
-    <strong>📷 Slika 1: Beg pred ruskim obstreljevanjem pod zrušenim mostom v Irpinu (marec 2022)</strong><br>
-    <em>Opis:</em> Ena najbolj prepoznavnih fotografij začetka ruske agresije. Tisoče civilistov – predvsem mater z dojenčki, majhnih otrok in ostarelih – se je stiskalo pod betonskimi ruševinami mostu čez reko Irpin severozahodno od Kijeva, medtem ko je ruska vojska območje evakuacijskih koridorjev obstreljevala s težkim topništvom in minometi.<br>
-    <span style="font-size: 0.85em; color: #57606a;">Vir: Mednarodna foto-dokumentacija / Arhiv evakuacije Kijevske oblasti (licenca CC BY / Wikimedia Commons).</span>
-  </p>
-</div>
+#### 📷 Slika 1: Beg pred ruskim obstreljevanjem pod zrušenim mostom v Irpinu (marec 2022)
+![Beg pred ruskim obstreljevanjem pod zrušenim mostom v Irpinu](priloge/irpin_porusen_most_evakuacija.jpg)
 
-<div style="background: #ffffff; border: 1px solid #d8dee4; border-radius: 8px; padding: 18px; margin: 22px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.06);">
-  <a href="priloge/begunci_poljska_vlak.jpg" target="_blank">
-    <img src="priloge/begunci_poljska_vlak.jpg" alt="Ukrajinski begunci na železniški postaji" style="width: 100%; height: auto; border-radius: 6px; display: block; margin-bottom: 12px;">
-  </a>
-  <p style="margin: 0; font-size: 0.93em; color: #24292f; line-height: 1.5;">
-    <strong>📷 Slika 2: Eksodus nedolžnih: Ukrajinske družine na železniških postajah na poti v varnost</strong><br>
-    <em>Opis:</em> Ženske, otroci in starejši ljudje z nekaj najnujnejšimi osebnimi stvarmi v plastičnih vrečkah in kovčkih vstopajo na evakuacijske vlake proti poljski meji in naprej v države EU. Za seboj so pustili može, moževe očete, porušena stanovanja in celotno dotedanje življenje.<br>
-    <span style="font-size: 0.85em; color: #57606a;">Vir: Dokumentacija sprejemnih centrov v Evropi (licenca CC BY-SA / Wikimedia Commons).</span>
-  </p>
-</div>
+* **Opis:** Ena najbolj prepoznavnih fotografij začetka ruske agresije. Tisoče civilistov – predvsem mater z dojenčki, majhnih otrok in ostarelih – se je stiskalo pod betonskimi ruševinami zrušenega mostu čez reko Irpin severozahodno od Kijeva, medtem ko je ruska vojska območje evakuacijskih koridorjev obstreljevala s težkim topništvom in minometi.
+* **Vir in licenca:** Mednarodna foto-dokumentacija / Arhiv evakuacije Kijevske oblasti (licenca CC BY / Wikimedia Commons).
+* 🔍 **[Povezava do fotografije v polni velikosti](priloge/irpin_porusen_most_evakuacija.jpg)**
+
+---
+
+#### 📷 Slika 2: Eksodus nedolžnih: Ukrajinske družine na železniških postajah na poti v varnost
+![Ukrajinski begunci na železniški postaji](priloge/begunci_poljska_vlak.jpg)
+
+* **Opis:** Ženske, otroci in starejši ljudje z nekaj najnujnejšimi osebnimi stvarmi v plastičnih vrečkah in kovčkih vstopajo na evakuacijske vlake proti poljski meji in naprej v države EU. Za seboj so pustili može, moževe očete, porušena stanovanja in celotno dotedanje življenje.
+* **Vir in licenca:** Dokumentacija sprejemnih centrov v Evropi (licenca CC BY-SA / Wikimedia Commons).
+* 🔍 **[Povezava do fotografije v polni velikosti](priloge/begunci_poljska_vlak.jpg)**
 
 ---
 
 ### 🎬 VIDEO DOKUMENTACIJA: Humanitarna drama na mejah z Evropo
 
-<div style="background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 8px; padding: 20px; margin: 24px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.05);">
-  <h4 style="margin-top: 0; margin-bottom: 12px; color: #0969da; font-size: 1.15em;">🎬 Poročilo Reuters: Begunski center v Przemyślu na poljsko-ukrajinski meji</h4>
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 6px; margin-bottom: 14px; background: #000;">
-    <iframe src="https://www.youtube.com/embed/341s0ollkzc" title="Inside Poland's Przemysl camp for Ukrainian refugees | Reuters" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <p style="margin: 0; font-size: 0.9em; color: #24292f; line-height: 1.5;">
-    🔗 <strong>Neposredna povezava:</strong> <a href="https://www.youtube.com/watch?v=341s0ollkzc" target="_blank">Ogled na YouTube: Inside Poland's Przemysl camp for Ukrainian refugees (Reuters)</a><br>
-    <strong>Ključni prizori v posnetku:</strong> Pretresljiva pričevanja ukrajinskih mater z majhnimi otroki ob prihodu na varno, organizacija prostovoljcev iz celotne Evrope ter soočenje z izgubo domov in negotovo prihodnostjo.
-  </p>
-</div>
+#### 🎬 Poročilo Reuters: Begunski center v Przemyślu na poljsko-ukrajinski meji
+Ta posnetek dokumentira prve dni in tedne masovnega bega ukrajinskih mater in otrok v sosednjo Poljsko ter neprecenljivo solidarnost prostovoljcev iz vse Evrope:
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/341s0ollkzc" title="Inside Poland's Przemysl camp for Ukrainian refugees | Reuters" frameborder="0" allowfullscreen></iframe>
+
+* 🔗 **Neposredna povezava:** [Ogled na YouTube: Inside Poland's Przemysl camp for Ukrainian refugees (Reuters)](https://www.youtube.com/watch?v=341s0ollkzc)
+* **Ključni prizori v posnetku:** Pretresljiva pričevanja ukrajinskih mater z majhnimi otroki ob prihodu na varno, organizacija prostovoljcev iz celotne Evrope ter soočenje z izgubo domov in negotovo prihodnostjo.
 
 ---
 
@@ -124,88 +115,72 @@ Zrušitev in razstrelitev velikega hidroelektrarniškega jezu Nova Kahovka pod r
 
 ### 📸 FOTOGRAFSKA DOKUMENTACIJA: Urbicid – območja popolnega uničenja
 
-<div style="background: #ffffff; border: 1px solid #d8dee4; border-radius: 8px; padding: 18px; margin: 22px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.06);">
-  <a href="priloge/mariupol_letalski_posnetek_razdejanja.jpg" target="_blank">
-    <img src="priloge/mariupol_letalski_posnetek_razdejanja.jpg" alt="Mariupol letalski posnetek razdejanja" style="width: 100%; height: auto; border-radius: 6px; display: block; margin-bottom: 12px;">
-  </a>
-  <p style="margin: 0; font-size: 0.93em; color: #24292f; line-height: 1.5;">
-    <strong>📷 Slika 3: Zračni posnetek Mariupola med ruskim obleganjem spomladi 2022</strong><br>
-    <em>Opis:</em> Pogled na stanovanjska naselja in mestno središče Mariupola. Po večtedenskem neprekinjenem obstreljevanju s kopnega, z morja in iz zraka so bili celotni stanovanjski bloki požgani, porušeni ali spremenjeni v neprepoznavne skelete. V mestu je bilo uničenih več kot 90 % celotnega stanovanjskega fonda.<br>
-    <span style="font-size: 0.85em; color: #57606a;">Vir: Zračni in satelitski posnetki Mariupola (licenca CC BY-SA / Wikimedia Commons).</span>
-  </p>
-</div>
+#### 📷 Slika 3: Zračni posnetek Mariupola med ruskim obleganjem spomladi 2022
+![Mariupol letalski posnetek razdejanja](priloge/mariupol_letalski_posnetek_razdejanja.jpg)
 
-<div style="background: #ffffff; border: 1px solid #d8dee4; border-radius: 8px; padding: 18px; margin: 22px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.06);">
-  <a href="priloge/bahmut_letalski_posnetek_popolno_unicenje.jpg" target="_blank">
-    <img src="priloge/bahmut_letalski_posnetek_popolno_unicenje.jpg" alt="Bahmut letalski posnetek popolnega uničenja" style="width: 100%; height: auto; border-radius: 6px; display: block; margin-bottom: 12px;">
-  </a>
-  <p style="margin: 0; font-size: 0.93em; color: #24292f; line-height: 1.5;">
-    <strong>📷 Slika 4: Bahmut – popolno fizično izničenje mesta (posnetek iz zraka, 2023)</strong><br>
-    <em>Opis:</em> Posnetek iz drona prikazuje osrednji del Bahmuta po mesecih topniškega mletja s strani ruske vojske. Na območju, kjer je nekoč živelo več kot 70.000 ljudi, ni ostala niti ena cela stavba; celotne ulice so bile spremenjene v prah, zoglenele ruševine in kraterje težkega topništva.<br>
-    <span style="font-size: 0.85em; color: #57606a;">Vir: Posnetki ukrajinskih zračnih izvidniških enot / Wikimedia Commons.</span>
-  </p>
-</div>
+* **Opis:** Pogled na stanovanjska naselja in mestno središče Mariupola. Po večtedenskem neprekinjenem obstreljevanju s kopnega, z morja in iz zraka so bili celotni stanovanjski bloki požgani, porušeni ali spremenjeni v neprepoznavne skelete. V mestu je bilo uničenih več kot 90 % celotnega stanovanjskega fonda.
+* **Vir in licenca:** Zračni in satelitski posnetki Mariupola (licenca CC BY-SA / Wikimedia Commons).
+* 🔍 **[Povezava do fotografije v polni velikosti](priloge/mariupol_letalski_posnetek_razdejanja.jpg)**
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 18px; margin: 22px 0;">
-  <div style="background: #ffffff; border: 1px solid #d8dee4; border-radius: 8px; padding: 16px; box-shadow: 0 3px 8px rgba(0,0,0,0.06);">
-    <a href="priloge/borodjanka_rusko_bombardiranje_blokov.jpg" target="_blank">
-      <img src="priloge/borodjanka_rusko_bombardiranje_blokov.jpg" alt="Borodjanka rusko bombardiranje blokov" style="width: 100%; height: auto; border-radius: 6px; display: block; margin-bottom: 10px;">
-    </a>
-    <p style="margin: 0; font-size: 0.9em; color: #24292f; line-height: 1.45;">
-      <strong>📷 Slika 5: Borodjanka – zračni napadi na stanovanjske bloke</strong><br>
-      <em>Opis:</em> Posledice odmetavanja poltonskih letalskih bomb FAB na civilne stanovanjske stolpnice v Borodjanki (pomlad 2022). Bombe so stolpnice dobesedno razklale na dvoje in zasule prebivalce v kletnih zakloniščih.<br>
-      <span style="font-size: 0.82em; color: #57606a;">Vir: Državna služba za izredne razmere Ukrajine (DSNS).</span>
-    </p>
-  </div>
+---
 
-  <div style="background: #ffffff; border: 1px solid #d8dee4; border-radius: 8px; padding: 16px; box-shadow: 0 3px 8px rgba(0,0,0,0.06);">
-    <a href="priloge/harkiv_saltivka_unicena_soseska.jpg" target="_blank">
-      <img src="priloge/harkiv_saltivka_unicena_soseska.jpg" alt="Harkiv Severna Saltivka uničena stanovanjska soseska" style="width: 100%; height: auto; border-radius: 6px; display: block; margin-bottom: 10px;">
-    </a>
-    <p style="margin: 0; font-size: 0.9em; color: #24292f; line-height: 1.45;">
-      <strong>📷 Slika 6: Harkiv – Severna Saltivka po mesecih raketiranja</strong><br>
-      <em>Opis:</em> Največja stanovanjska soseska v Ukrajini (dom za več kot 300.000 prebivalcev), ki so jo ruske sile sistematično zadevale z večcevnimi raketometi Grad in kasetnim strelivom.<br>
-      <span style="font-size: 0.82em; color: #57606a;">Vir: Foto-arhiv Harkovske regionalne administracije / Wikimedia Commons.</span>
-    </p>
-  </div>
-</div>
+#### 📷 Slika 4: Bahmut – popolno fizično izničenje mesta (posnetek iz zraka, 2023)
+![Bahmut letalski posnetek popolnega uničenja](priloge/bahmut_letalski_posnetek_popolno_unicenje.jpg)
 
-<div style="background: #ffffff; border: 1px solid #d8dee4; border-radius: 8px; padding: 18px; margin: 22px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.06);">
-  <a href="priloge/kahovka_poplave_herson.jpg" target="_blank">
-    <img src="priloge/kahovka_poplave_herson.jpg" alt="Poplave v Hersonu po razstrelitvi jezu Kahovka" style="width: 100%; height: auto; border-radius: 6px; display: block; margin-bottom: 12px;">
-  </a>
-  <p style="margin: 0; font-size: 0.93em; color: #24292f; line-height: 1.5;">
-    <strong>📷 Slika 7: Ekocid: Poplave v Hersonu po ruski razstrelitvi jezu Nova Kahovka (junij 2023)</strong><br>
-    <em>Opis:</em> Celotne stanovanjske četrti v Hersonu in na desnem bregu Dnepra pod vodo po razstrelitvi hidroelektrarniškega jezu. Ruske sile so med evakuacijo civilistov s čolni celo streljale na reševalce in domačine.<br>
-    <span style="font-size: 0.85em; color: #57606a;">Vir: Foto-dokumentacija reševalnih operacij DSNS / Wikimedia Commons.</span>
-  </p>
-</div>
+* **Opis:** Posnetek iz drona prikazuje osrednji del Bahmuta po mesecih topniškega mletja s strani ruske vojske. Na območju, kjer je nekoč živelo več kot 70.000 ljudi, ni ostala niti ena cela stavba; celotne ulice so bile spremenjene v prah, zoglenele ruševine in kraterje težkega topništva.
+* **Vir in licenca:** Posnetki ukrajinskih zračnih izvidniških enot / Wikimedia Commons.
+* 🔍 **[Povezava do fotografije v polni velikosti](priloge/bahmut_letalski_posnetek_popolno_unicenje.jpg)**
+
+---
+
+#### 📷 Slika 5: Borodjanka – zračni napadi na stanovanjske bloke (pomlad 2022)
+![Borodjanka rusko bombardiranje blokov](priloge/borodjanka_rusko_bombardiranje_blokov.jpg)
+
+* **Opis:** Posledice odmetavanja poltonskih letalskih bomb FAB na civilne stanovanjske stolpnice v Borodjanki severno od Kijeva. Bombe so stolpnice dobesedno razklale na dvoje in zasule prebivalce v kletnih zakloniščih.
+* **Vir in licenca:** Državna služba za izredne razmere Ukrajine (DSNS) / Wikimedia Commons.
+* 🔍 **[Povezava do fotografije v polni velikosti](priloge/borodjanka_rusko_bombardiranje_blokov.jpg)**
+
+---
+
+#### 📷 Slika 6: Harkiv – Severna Saltivka po mesecih topniškega in raketnega uničevanja
+![Harkiv Severna Saltivka uničena stanovanjska soseska](priloge/harkiv_saltivka_unicena_soseska.jpg)
+
+* **Opis:** Največja stanovanjska soseska v Ukrajini (dom za več kot 300.000 prebivalcev), ki so jo ruske sile sistematično zadevale z večcevnimi raketometi Grad, Uragan in kasetnim strelivom.
+* **Vir in licenca:** Foto-arhiv Harkovske regionalne administracije / Wikimedia Commons.
+* 🔍 **[Povezava do fotografije v polni velikosti](priloge/harkiv_saltivka_unicena_soseska.jpg)**
+
+---
+
+#### 📷 Slika 7: Ekocid: Poplave v Hersonu po ruski razstrelitvi jezu Nova Kahovka (junij 2023)
+![Poplave v Hersonu po razstrelitvi jezu Kahovka](priloge/kahovka_poplave_herson.jpg)
+
+* **Opis:** Celotne stanovanjske četrti v Hersonu in na desnem bregu Dnepra pod vodo po razstrelitvi hidroelektrarniškega jezu pod ruskim nadzorom. Ruske sile so med evakuacijo civilistov s čolni celo streljale na reševalce in domačine.
+* **Vir in licenca:** Foto-dokumentacija reševalnih operacij DSNS / Wikimedia Commons.
+* 🔍 **[Povezava do fotografije v polni velikosti](priloge/kahovka_poplave_herson.jpg)**
 
 ---
 
 ### 🎬 VIDEO DOKUMENTACIJA: Posnetki iz zraka in pričevanje iz Mariupola
 
-<div style="background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 8px; padding: 20px; margin: 24px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.05);">
-  <h4 style="margin-top: 0; margin-bottom: 12px; color: #0969da; font-size: 1.15em;">🎬 Posnetek The Guardian: Zračni posnetki z drona prikazujejo razsežnost uničenja Bahmuta</h4>
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 6px; margin-bottom: 14px; background: #000;">
-    <iframe src="https://www.youtube.com/embed/88AuACygKwg" title="Ukraine drone footage shows scale of destruction in city of Bakhmut | Guardian News" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <p style="margin: 0; font-size: 0.9em; color: #24292f; line-height: 1.5;">
-    🔗 <strong>Neposredna povezava:</strong> <a href="https://www.youtube.com/watch?v=88AuACygKwg" target="_blank">Ogled na YouTube: Ukraine drone footage shows scale of destruction in city of Bakhmut (Guardian News)</a><br>
-    <strong>Ključni prizori:</strong> Verificirani posnetki brezpilotnih letalnikov prikazujejo neskončne nize popolnoma uničenih zgradb, požganih industrijskih obratov in ruševin nekdanjega mesta, ki ga je rusko topništvo zravnalo z zemljo.
-  </p>
-</div>
+#### 🎬 Posnetek The Guardian: Zračni posnetki z drona prikazujejo razsežnost uničenja Bahmuta
+Posnetek britanskega dnevnika The Guardian prikazuje razsežnost opustošenja v Bahmutu:
 
-<div style="background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 8px; padding: 20px; margin: 24px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.05);">
-  <h4 style="margin-top: 0; margin-bottom: 12px; color: #0969da; font-size: 1.15em;">🎬 Zgodovinski govor Mstislava Černova ob prejemu Oskarja za film »20 dni v Mariupolu« (96. podelitev oskarjev)</h4>
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 6px; margin-bottom: 14px; background: #000;">
-    <iframe src="https://www.youtube.com/embed/SN_ArrwkU9U" title="'20 Days in Mariupol' Wins Best Documentary Feature Film | 96th Oscars" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <blockquote style="margin: 12px 0 0 0; padding: 10px 16px; background: #ffffff; border-left: 4px solid #cf222e; font-style: italic; font-size: 0.9em; color: #24292f;">
-    »To je prvi oskar v ukrajinski zgodovini. In verjetno sem prvi režiser na tem odru, ki bo rekel: želim si, da tega filma ne bi nikoli posnel. Želim si, da bi to nagrado lahko zamenjal za to, da Rusija ne bi nikoli napadla Ukrajine, da ne bi nikoli zasedla naših mest ... da Rusija ne bi pobila na desettisoče mojih rojakov. Vendar preteklosti ne morem spremeniti. Lahko pa poskrbimo, da bo zgodovinski spomin ostal resničen, da bo resnica zmagala in da ljudje Mariupola ter tisti, ki so dali svoja življenja, ne bodo nikoli pozabljeni.«<br>
-    <span style="font-style: normal; font-weight: bold; color: #57606a;">– Mstislav Černov, režiser in prejemnik Pulitzerjeve nagrade ter oskarja</span>
-  </blockquote>
-</div>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/88AuACygKwg" title="Ukraine drone footage shows scale of destruction in city of Bakhmut | Guardian News" frameborder="0" allowfullscreen></iframe>
+
+* 🔗 **Neposredna povezava:** [Ogled na YouTube: Ukraine drone footage shows scale of destruction in city of Bakhmut (Guardian News)](https://www.youtube.com/watch?v=88AuACygKwg)
+* **Ključni prizori:** Verificirani posnetki brezpilotnih letalnikov prikazujejo neskončne nize popolnoma uničenih zgradb, požganih industrijskih obratov in ruševin nekdanjega mesta, ki ga je rusko topništvo zravnalo z zemljo.
+
+---
+
+#### 🎬 Zgodovinski govor Mstislava Černova ob prejemu Oskarja za film »20 dni v Mariupolu« (96. podelitev oskarjev)
+Posnetek zgodovinskega trenutka, ko je ukrajinski režiser in novinar AP Mstislav Černov prejel prvega oskarja v zgodovini Ukrajine za dokumentarni film »20 dni v Mariupolu«:
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/SN_ArrwkU9U" title="'20 Days in Mariupol' Wins Best Documentary Feature Film | 96th Oscars" frameborder="0" allowfullscreen></iframe>
+
+* 🔗 **Neposredna povezava:** [Ogled na YouTube: '20 Days in Mariupol' Wins Best Documentary Feature Film | Oscars](https://www.youtube.com/watch?v=SN_ArrwkU9U)
+
+> »To je prvi oskar v ukrajinski zgodovini. In verjetno sem prvi režiser na tem odru, ki bo rekel: želim si, da tega filma ne bi nikoli posnel. Želim si, da bi to nagrado lahko zamenjal za to, da Rusija ne bi nikoli napadla Ukrajine, da ne bi nikoli zasedla naših mest ... da Rusija ne bi pobila na desettisoče mojih rojakov. Vendar preteklosti ne morem spremeniti. Lahko pa poskrbimo, da bo zgodovinski spomin ostal resničen, da bo resnica zmagala in da ljudje Mariupola ter tisti, ki so dali svoja življenja, ne bodo nikoli pozabljeni.«  
+> – **Mstislav Černov**, režiser in prejemnik Pulitzerjeve nagrade ter oskarja
 
 ---
 
@@ -224,90 +199,70 @@ Ena najbolj grozljivih značilnosti štiriletne agresije je dejstvo, da ukrajins
 
 ### 📸 FOTOGRAFSKA DOKUMENTACIJA: Dokazi napadov na civilno prebivalstvo
 
-<div style="background: #ffffff; border: 1px solid #d8dee4; border-radius: 8px; padding: 18px; margin: 22px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.06);">
-  <a href="priloge/mariupol_dramsko_gledalisce_unicenje.jpg" target="_blank">
-    <img src="priloge/mariupol_dramsko_gledalisce_unicenje.jpg" alt="Uničeno Dramsko gledališče v Mariupolu" style="width: 100%; height: auto; border-radius: 6px; display: block; margin-bottom: 12px;">
-  </a>
-  <p style="margin: 0; font-size: 0.93em; color: #24292f; line-height: 1.5;">
-    <strong>📷 Slika 8: Dramsko gledališče v Mariupolu – uničenje zaklonišča z napisom »ДЕТИ«</strong><br>
-    <em>Opis:</em> Pogled na porušeno pročelje in zrušeno streho mariupolskega gledališča po neposrednem letalskem napadu 16. marca 2022. Ruski piloti so bombardirali stavbo kljub dejstvu, da je bilo na tleh jasno označeno, da so v njej otroci. Amnesty International je dogodek opredelil kot nedvoumen vojni zločin.<br>
-    <span style="font-size: 0.85em; color: #57606a;">Vir: Dokumentacija vojnih zločinov v Mariupolu / Wikimedia Commons.</span>
-  </p>
-</div>
+#### 📷 Slika 8: Dramsko gledališče v Mariupolu – uničenje zaklonišča z napisom »ДЕТИ«
+![Uničeno Dramsko gledališče v Mariupolu](priloge/mariupol_dramsko_gledalisce_unicenje.jpg)
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 18px; margin: 22px 0;">
-  <div style="background: #ffffff; border: 1px solid #d8dee4; border-radius: 8px; padding: 16px; box-shadow: 0 3px 8px rgba(0,0,0,0.06);">
-    <a href="priloge/kramatorsk_zelezniska_postaja_napad.jpg" target="_blank">
-      <img src="priloge/kramatorsk_zelezniska_postaja_napad.jpg" alt="Raketni napad na železniško postajo v Kramatorsku" style="width: 100%; height: auto; border-radius: 6px; display: block; margin-bottom: 10px;">
-    </a>
-    <p style="margin: 0; font-size: 0.9em; color: #24292f; line-height: 1.45;">
-      <strong>📷 Slika 9: Železniška postaja Kramatorsk po kasetnem napadu</strong><br>
-      <em>Opis:</em> Prizorišče po udaru balistične rakete Točka-U s kasetnim polnjenjem na tisoče čakajočih beguncev. Na tleh so ostala zapuščena prtljaga, otroški vozički in kri več kot 60 ubitih civilistov.<br>
-      <span style="font-size: 0.82em; color: #57606a;">Vir: Policija Donecke oblasti / DSNS.</span>
-    </p>
-  </div>
+* **Opis:** Pogled na porušeno pročelje in zrušeno streho mariupolskega gledališča po neposrednem letalskem napadu 16. marca 2022. Ruski piloti so bombardirali stavbo kljub dejstvu, da je bilo na tleh jasno označeno, da so v njej otroci. Amnesty International je dogodek opredelil kot nedvoumen vojni zločin.
+* **Vir in licenca:** Dokumentacija vojnih zločinov v Mariupolu / Wikimedia Commons.
+* 🔍 **[Povezava do fotografije v polni velikosti](priloge/mariupol_dramsko_gledalisce_unicenje.jpg)**
 
-  <div style="background: #ffffff; border: 1px solid #d8dee4; border-radius: 8px; padding: 16px; box-shadow: 0 3px 8px rgba(0,0,0,0.06);">
-    <a href="priloge/dnipro_raketni_napad_blok.jpg" target="_blank">
-      <img src="priloge/dnipro_raketni_napad_blok.jpg" alt="Raketni napad na stanovanjski blok v Dnipru" style="width: 100%; height: auto; border-radius: 6px; display: block; margin-bottom: 10px;">
-    </a>
-    <p style="margin: 0; font-size: 0.9em; color: #24292f; line-height: 1.45;">
-      <strong>📷 Slika 10: Dnipro – zadetek rakete H-22 v stanovanjski blok</strong><br>
-      <em>Opis:</em> Reševalna akcija po zadetku težke protiladijske rakete v polno zaseden devetnadstropni blok (januar 2023). V nekaj sekundah je bilo ubitih 46 stanovalcev, celoten vhod pa se je sesedel v klet.<br>
-      <span style="font-size: 0.82em; color: #57606a;">Vir: DSNS Ukrajine / Wikimedia Commons.</span>
-    </p>
-  </div>
-</div>
+---
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 18px; margin: 22px 0;">
-  <div style="background: #ffffff; border: 1px solid #d8dee4; border-radius: 8px; padding: 16px; box-shadow: 0 3px 8px rgba(0,0,0,0.06);">
-    <a href="priloge/kijev_bolnisnica_ohmatdit_napad.jpg" target="_blank">
-      <img src="priloge/kijev_bolnisnica_ohmatdit_napad.jpg" alt="Otroška bolnišnica Ohmatdit v Kijevu po napadu" style="width: 100%; height: auto; border-radius: 6px; display: block; margin-bottom: 10px;">
-    </a>
-    <p style="margin: 0; font-size: 0.9em; color: #24292f; line-height: 1.45;">
-      <strong>📷 Slika 11: Kijev – napad na pediatrično kliniko Ohmatdit</strong><br>
-      <em>Opis:</em> Uničeni oddelki največje ukrajinske otroške bolnišnice po neposrednem zadetku ruske manevrirne rakete H-101 (8. julij 2024). Reševalci in zdravniki v okrvavljenih haljah so otroke z rakom reševali izpod ruševin.<br>
-      <span style="font-size: 0.82em; color: #57606a;">Vir: Ministrstvo za zdravje Ukrajine / Wikimedia Commons.</span>
-    </p>
-  </div>
+#### 📷 Slika 9: Železniška postaja Kramatorsk po kasetnem napadu (april 2022)
+![Raketni napad na železniško postajo v Kramatorsku](priloge/kramatorsk_zelezniska_postaja_napad.jpg)
 
-  <div style="background: #ffffff; border: 1px solid #d8dee4; border-radius: 8px; padding: 16px; box-shadow: 0 3px 8px rgba(0,0,0,0.06);">
-    <a href="priloge/buca_zlocini_ulica_jablunska.jpg" target="_blank">
-      <img src="priloge/buca_zlocini_ulica_jablunska.jpg" alt="Prizorišče zločinov v Buči na ulici Jablunska" style="width: 100%; height: auto; border-radius: 6px; display: block; margin-bottom: 10px;">
-    </a>
-    <p style="margin: 0; font-size: 0.9em; color: #24292f; line-height: 1.45;">
-      <strong>📷 Slika 12: Buča – pobiti civilisti na ulici Jablunska</strong><br>
-      <em>Opis:</em> Prizor po umiku ruskih sil marca 2022. Trupla zvezanih in usmrčenih domačinov so tedne ležala ob cestišču. Forenzične preiskave ZN so potrdile usmrtitve brez sojenja in sistematično mučenje.<br>
-      <span style="font-size: 0.82em; color: #57606a;">Vir: Urad predsednika Ukrajine / Neodvisna preiskovalna komisija ZN.</span>
-    </p>
-  </div>
-</div>
+* **Opis:** Prizorišče po udaru balistične rakete Točka-U s kasetnim polnjenjem na tisoče čakajočih beguncev. Na tleh so ostala zapuščena prtljaga, otroški vozički in kri več kot 60 ubitih civilistov.
+* **Vir in licenca:** Policija Donecke oblasti / DSNS / Wikimedia Commons.
+* 🔍 **[Povezava do fotografije v polni velikosti](priloge/kramatorsk_zelezniska_postaja_napad.jpg)**
+
+---
+
+#### 📷 Slika 10: Dnipro – zadetek rakete H-22 v večnadstropni stanovanjski blok (januar 2023)
+![Raketni napad na stanovanjski blok v Dnipru](priloge/dnipro_raketni_napad_blok.jpg)
+
+* **Opis:** Reševalna akcija po zadetku težke protiladijske rakete v polno zaseden devetnadstropni blok (januar 2023). V nekaj sekundah je bilo ubitih 46 stanovalcev, celoten vhod pa se je sesedel v klet.
+* **Vir in licenca:** DSNS Ukrajine / Wikimedia Commons.
+* 🔍 **[Povezava do fotografije v polni velikosti](priloge/dnipro_raketni_napad_blok.jpg)**
+
+---
+
+#### 📷 Slika 11: Kijev – napad na pediatrično kliniko Ohmatdit (julij 2024)
+![Otroška bolnišnica Ohmatdit v Kijevu po napadu](priloge/kijev_bolnisnica_ohmatdit_napad.jpg)
+
+* **Opis:** Uničeni oddelki največje ukrajinske otroške bolnišnice po neposrednem zadetku ruske manevrirne rakete H-101 (8. julij 2024). Reševalci in zdravniki v okrvavljenih haljah so otroke z rakom reševali izpod ruševin.
+* **Vir in licenca:** Ministrstvo za zdravje Ukrajine / Wikimedia Commons.
+* 🔍 **[Povezava do fotografije v polni velikosti](priloge/kijev_bolnisnica_ohmatdit_napad.jpg)**
+
+---
+
+#### 📷 Slika 12: Buča – pobiti civilisti na ulici Jablunska (pomlad 2022)
+![Prizorišče zločinov v Buči na ulici Jablunska](priloge/buca_zlocini_ulica_jablunska.jpg)
+
+* **Opis:** Prizor po umiku ruskih sil marca 2022. Trupla zvezanih in usmrčenih domačinov so tedne ležala ob cestišču. Forenzične preiskave ZN so potrdile usmrtitve brez sojenja in sistematično mučenje s strani ruske 234. desantne enote.
+* **Vir in licenca:** Urad predsednika Ukrajine / Neodvisna preiskovalna komisija ZN / Wikimedia Commons.
+* 🔍 **[Povezava do fotografije v polni velikosti](priloge/buca_zlocini_ulica_jablunska.jpg)**
 
 ---
 
 ### 🎬 VIDEO DOKUMENTACIJA: Forenzične preiskave vojnih zločinov
 
-<div style="background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 8px; padding: 20px; margin: 24px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.05);">
-  <h4 style="margin-top: 0; margin-bottom: 12px; color: #0969da; font-size: 1.15em;">🎬 The New York Times Visual Investigations: Kdo so bili ruski vojaki, ki so pobijali v Buči (Pulitzerjeva nagrada 2023)</h4>
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 6px; margin-bottom: 14px; background: #000;">
-    <iframe src="https://www.youtube.com/embed/IrGZ66uKcl0" title="Exposing the Russian Military Unit Behind a Massacre in Bucha | Visual Investigations | The New York Times" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <p style="margin: 0; font-size: 0.9em; color: #24292f; line-height: 1.5;">
-    🔗 <strong>Neposredna povezava:</strong> <a href="https://www.youtube.com/watch?v=IrGZ66uKcl0" target="_blank">Ogled na YouTube: Exposing the Russian Military Unit Behind a Massacre in Bucha (The New York Times)</a><br>
-    <strong>Ključne ugotovitve preiskave:</strong> Osemmesečna preiskava časopisa The New York Times z analizo tisočev ur posnetkov nadzornih kamer, prestreženih telefonskih klicev in pričevanj je poimensko identificirala rusko 234. desantno-jurišno polkovno enoto pod poveljstvom podpolkovnika Artjoma Gorodilova, ki je načrtno pobijala civiliste na ulici Jablunska v Buči.
-  </p>
-</div>
+#### 🎬 The New York Times Visual Investigations: Kdo so bili ruski vojaki, ki so pobijali v Buči (Pulitzerjeva nagrada 2023)
+Osemmesečna preiskava časopisa The New York Times z analizo tisočev ur posnetkov nadzornih kamer, prestreženih telefonskih klicev in pričevanj:
 
-<div style="background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 8px; padding: 20px; margin: 24px 0; box-shadow: 0 3px 8px rgba(0,0,0,0.05);">
-  <h4 style="margin-top: 0; margin-bottom: 12px; color: #0969da; font-size: 1.15em;">🎬 BBC News: Raketni napad na železniško postajo Kramatorsk, polno beguncev</h4>
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 6px; margin-bottom: 14px; background: #000;">
-    <iframe src="https://www.youtube.com/embed/U8V3VwDC4uw" title="At least 50 dead as missiles strike Ukraine train station packed with civilians - BBC News" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <p style="margin: 0; font-size: 0.9em; color: #24292f; line-height: 1.5;">
-    🔗 <strong>Neposredna povezava:</strong> <a href="https://www.youtube.com/watch?v=U8V3VwDC4uw" target="_blank">Ogled na YouTube: At least 50 dead as missiles strike Ukraine train station packed with civilians (BBC News)</a><br>
-    <strong>Poročilo novinarjev BBC s terena:</strong> Dokumentiranje uporabe kasetnega streliva proti civilnemu zbirališču, analiza ostankov balistične rakete ter prikazi reševanja desetin hudo ranjenih otrok in odraslih.
-  </p>
-</div>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/IrGZ66uKcl0" title="Exposing the Russian Military Unit Behind a Massacre in Bucha | Visual Investigations | The New York Times" frameborder="0" allowfullscreen></iframe>
+
+* 🔗 **Neposredna povezava:** [Ogled na YouTube: Exposing the Russian Military Unit Behind a Massacre in Bucha (The New York Times)](https://www.youtube.com/watch?v=IrGZ66uKcl0)
+* **Ključne ugotovitve preiskave:** Preiskovalci so poimensko identificirali rusko 234. desantno-jurišno polkovno enoto pod poveljstvom podpolkovnika Artjoma Gorodilova, ki je načrtno pobijala civiliste na ulici Jablunska v Buči ter uporabljala njihove telefone za klice v Rusijo.
+
+---
+
+#### 🎬 BBC News: Raketni napad na železniško postajo Kramatorsk, polno beguncev
+Poročilo novinarjev BBC s prizorišča napada v Kramatorsku:
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/U8V3VwDC4uw" title="At least 50 dead as missiles strike Ukraine train station packed with civilians - BBC News" frameborder="0" allowfullscreen></iframe>
+
+* 🔗 **Neposredna povezava:** [Ogled na YouTube: At least 50 dead as missiles strike Ukraine train station packed with civilians (BBC News)](https://www.youtube.com/watch?v=U8V3VwDC4uw)
+* **Poročilo novinarjev BBC s terena:** Dokumentiranje uporabe kasetnega streliva proti civilnemu zbirališču, analiza ostankov balistične rakete z napisom »Za otroke« ter prikazi reševanja desetin hudo ranjenih otrok in odraslih.
 
 ---
 
