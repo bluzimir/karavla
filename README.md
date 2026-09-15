@@ -18,7 +18,7 @@ Celotna analiza in spremljajoča dokumentacija je razdeljena na šest medsebojno
 4. 🔬 **[Kritična analiza članka »Boj med nacizmom in demokracijo« (Primorski dnevnik)](analiza_clanka_boj_med_nacizmom_in_demokracijo.md)** *(spletni ogled: [bluzimir.github.io/karavla/analiza_clanka_boj_med_nacizmom_in_demokracijo](https://bluzimir.github.io/karavla/analiza_clanka_boj_med_nacizmom_in_demokracijo))*  
    *Forenzična dekonstrukcija 9 manipulativnih tehnik v objavi Primorskega dnevnika (11. 9. 2026, str. 22): orwellianska inverzija realnosti, prevzem kremeljskega cenzurnega besednjaka (SVO), zloraba zamejske manjšinske travme, grobo izkrivljanje časovnice ter faktografske napake.*
 5. 🌍 **[Vojna v Ukrajini: Štiri leta in pol ruske totalne agresije in njene posledice](posledice_vojne_v_ukrajini.md)** *(spletni ogled: [bluzimir.github.io/karavla/posledice_vojne_v_ukrajini](https://bluzimir.github.io/karavla/posledice_vojne_v_ukrajini))*  
-   *Celovit pregled stanja vojne skozi oči demokratičnega sveta, mednarodnega prava in OZN: več kot 6 milijonov beguncev, popolno uničenje mest (Mariupol, Bahmut, Avdijivka), namerni napadi na civiliste in otroške bolnišnice, vojni zločini (Buča, nalogi ICC proti Putinu) ter raznarodovanje in kulturni genocid na okupiranih ozemljih.*
+   *Celovit pregled stanja vojne skozi oči demokratičnega sveta, mednarodnega prava in OZN: več kot 6,5 milijona beguncev, zračni in satelitski dokazi popolnega uničenja mest (Mariupol, Bahmut, Borodjanka, Harkiv), namerni napadi na civilne objekte in otroško bolnišnico Ohmatdit, vojni zločini (Buča, Kramatorsk, nalogi ICC proti Putinu) ter vgrajeno video gradivo (The Guardian, NYT Visual Investigations, Reuters, BBC News, govor oskarjevca M. Černova).*
 6. 📨 **[Zbrana e-poštna sporočila in priloge (Boris, Edvard, Jernej)](zbrana_sporocila.md)** *(spletni ogled: [bluzimir.github.io/karavla/zbrana_sporocila](https://bluzimir.github.io/karavla/zbrana_sporocila))*  
    *Celotna kronološka zbirka 34 izvirnih e-poštnih sporočil vseh treh ključnih sodelujočih (Boris, Edvard, Jernej) med 3. in 12. septembrom 2026, urejena z doslednim varovanjem zasebnosti (izključno osebna imena brez e-naslovov) ter z vsemi poslanimi prilogami (PDF Primorski dnevnik, slike pogodb, grafi svoboščin).*
 
@@ -51,12 +51,13 @@ Analiza temelji na neposrednem preučevanju primarnih komunikacijskih virov ter 
 3. **Edvardova sporočila:** Vsebinske replike in analize (7 osrednjih odgovorov na propagando ter spremljajoča pojasnila skupini).
 4. **Jernejeva sporočila:** 2 sporočili (11. in 12. 9. 2026) s kritičnim odzivom na propagandni članek in refleksijo o kulturi dialoga.
 5. **Vse shranjene priloge (mapa [`priloge/`](priloge/)):**
-   - 📄 [`Primorski-Primorski-11_09_2026-22.pdf`](priloge/Primorski-Primorski-11_09_2026-22.pdf) – objava članka tržaškega občinskega svetnika tržaškega občinskega svetnika *»Boj med nacizmom in demokracijo«* v *Primorskem dnevniku* (Trst, 11. 9. 2026, str. 22).
+   - 📄 [`Primorski-Primorski-11_09_2026-22.pdf`](priloge/Primorski-Primorski-11_09_2026-22.pdf) – objava članka tržaškega občinskega svetnika *»Boj med nacizmom in demokracijo«* v *Primorskem dnevniku* (Trst, 11. 9. 2026, str. 22).
    - 🖼️ [`Hiteljevi pakti.jpg`](priloge/Hiteljevi%20pakti.jpg) – preglednica predvojnih pogodb z nacistično Nemčijo, posredovana s strani Borisa.
    - 🖼️ [`graf_house_of_freedom.png`](priloge/graf_house_of_freedom.png) – primerjalni graf političnih svoboščin v članicah SCO (Freedom House), posredovan s strani Edvarda.
    - 🖼️ [`edvard_5456_image.png`](priloge/edvard_5456_image.png) – zapis analitika o volitvah v Saški in analizi volilnega telesa AfD.
    - 🖼️ [`edvard_5412_image.png`](priloge/edvard_5412_image.png) – objava izjave V. Putina na gospodarskem forumu.
    - 🖼️ [`edvard_5437_image001.png`](priloge/edvard_5437_image001.png) – naslovnica knjige Slavenke Drakulić *»Kako smo preživeli komunizem in se celo smejali«*.
+   - 🖼️ **Dokumentarna fototeka vojnih posledic v Ukrajini:** 12 avtentičnih posnetkov porušenih mest (Mariupol, Bahmut, Borodjanka, Harkiv), napadov na civilne objekte (Dramsko gledališče z napisom »ДЕТИ«, postaja Kramatorsk, otroška bolnišnica Ohmatdit, stanovanjski blok v Dnipru, pokol v Buči, ekocid Kahovka) in beguncev (porušen most v Irpinu, begunske kolone na železnicah).
 
 ### B. Primarni zgodovinski viri in mednarodnopravne pogodbe
 1. **Pakt Molotov-Ribbentrop (23. avgust 1939):**
