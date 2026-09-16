@@ -26,6 +26,10 @@
       <div style="font-size: 1.7em; font-weight: bold; color: #e056fd;">4 nalogi ICC</div>
       <div style="font-size: 0.9em; opacity: 0.95;">Mednarodni nalogi za aretacijo (V. Putin, M. Lvova-Belova, S. Šojgu, V. Gerasimov)</div>
     </div>
+    <div style="background: rgba(255,255,255,0.12); padding: 12px 16px; border-radius: 8px; border-left: 4px solid #ff9f43;">
+      <div style="font-size: 1.7em; font-weight: bold; color: #ff9f43;">> 600.000</div>
+      <div style="font-size: 0.9em; opacity: 0.95;">Ruskih vojaških žrtev ob uradnem zanikanju Kremlja: »Mi nimamo izgub«</div>
+    </div>
   </div>
 </div>
 
@@ -306,9 +310,81 @@ Vojna v Ukrajini ima daljnosežne uničujoče posledice za ves svet:
 
 ---
 
-## 7. SOOČENJE Z REALNOSTJO: SPOZNAVANJE PROPAGANDNIH LAŽI
+## 7. KAKO KREMELJ VIDI VOJNO: CINIZEM O »BREZ IZGUB« IN KRUTA RESNIČNOST GROBOV MLADIH RUSKIH VOJAKOV
 
-V luči teh neizpodbitnih, s fotografijami, videoposnetki, satelitskimi dokazi in preiskavami Združenih narodov potrjenih dejstev postane popolnoma jasno, kako sprevrženi in moralno nevzdržni so narativi, ki so se pojavljali v obravnavani dopisni korespondenci:
+Popoln prepad med uradno podobo vojne, ki jo za domače in tuje občinstvo projicira kremeljska propaganda, ter neizprosnimi dejstvi na terenu se najbolj srhljivo kaže v obravnavi lastnih človeških izgub.
+
+### 1. Propagandna iluzija Kremlja: »Vse teče po načrtu« in »Mi nimamo izgub«
+* **Popolno zanikanje realnosti:** Vladimir Putin, nekdanji obrambni minister Sergej Šojgu, načelnik generalštaba Valerij Gerasimov ter tiskovni predstavnik ruskega obrambnega ministrstva general Igor Konašenkov so v svojih javnih nastopih mesece in leta cinično zatrjevali, da *»ruska vojska nima omembe vrednih izgub«*, da *»vse poteka strogo po vnaprej začrtanem urniku«* in da ruska armada cilje dosega z minimalnimi žrtvami. Na plenarnem zasedanju Vzhodnega gospodarskega foruma je Vladimir Putin celo brezsramno izjavil: *»Mi nismo ničesar izgubili in ničesar ne bomo izgubili.«*
+* **Drakonska cenzura in prikrivanje podatkov:** Zadnji uradni podatek o ruskih izgubah je rusko obrambno ministrstvo objavilo septembra 2022 (smešno nizko številko 5.937 padlih), od takrat naprej pa je Kremelj podatke o izgubah razglasil za najstrožjo državno skrivnost. Ruska duma je sprejela cenzurne zakone, ki predvidevajo do 15 let zaporne kazni za vsakogar, ki »diskreditira oborožene sile« ali razkriva podatke o mrtvih.
+* **Preganjanje žalujočih svojcev:** Policija in varnostna služba FSB ustrahujeta družine padlih, preganjata aktiviste, ki fotografirajo grobove na lokalnih pokopališčih, ter preganjata gibanja mater in žena mobiliziranih vojakov (kot je skupina *Pot domov* / *Путь домой*), ki zahtevajo resnico o usodi svojih sinov in mož.
+
+### 2. Kruta resničnost: Neskončni grobovi mladih vojakov in taktika »mesnih napadov«
+* **Več kot 600.000 ubitih in ranjenih:** Po podatkih neodvisnih preiskovalcev (BBC Russian Service, Mediazona ob sodelovanju prostovoljcev), ki preverjajo osmrtnice in terenske zapise, ter po obveščevalnih ocenah demokratičnih držav so skupne ruske izgube do leta 2026 presegle **600.000 ubitih in hudo ranjenih**. To število presega vse sovjetske in ruske vojaške izgube v vseh konfliktih po drugi svetovni vojni skupaj (desetletje v Afganistanu, obe čečenski vojni, Sirija itd.).
+* **Eksplozija novih vojaških pokopališč po vsej Rusiji:** Satelitski posnetki in posnetki z lokacij razkrivajo ogromno širitev pokopališč v vseh ruskih regijah – od predmestij Moskve, Rjazana in Pskova do najbolj oddaljenih avtonomnih republik (Burjatija, Tuva, Dagestan, Baškortostan), od koder režim zaradi revščine nesorazmerno črpa človeški potencial. Neskončne aleje sveže prekopane zemlje z lesenimi pravoslavnimi križi, plastičnimi venci v barvah ruske trobojnice, zastavami enot ter fotografijami komaj 18-, 20- ali 23-letnih fantov nemo dokazujejo orjaško tragedijo, ki jo je lastnemu narodu prizadejal kremeljski imperializem.
+* **Taktika t. i. »mesnih napadov« (*мясные штурмы*):** Kremeljski vojaški vrh lastne državljane obravnava kot cenen potrošni material. Slabeje usposobljene nabornike, mobilizirance in zapornike iz kazenskih kolonij brez ustrezne podpore oklepnikov brezbrižno pošiljajo v neprekinjene frontalne juriše prek minskih polj, zgolj z namenom, da z lastnimi telesi razkrijejo položaje ukrajinskega topništva.
+
+---
+
+### 📸 FOTOGRAFSKA IN DOKUMENTARNA GRADIVA: Kremeljska propaganda
+
+#### 📷 Slika 13: Vladimir Putin na Vzhodnem gospodarskem forumu: »We have lost nothing and we will not lose anything«
+![Vladimir Putin na forumu: We have lost nothing and we will not lose anything](priloge/we_have_lost_nothing.png)
+
+* **Opis:** Prizor iz uvodnega dela preiskovalnega videa: Vladimir Putin na plenarnem zasedanju Vzhodnega gospodarskega foruma leta 2022 pred občinstvom cinično trdi, da Rusija v vojni *»ni izgubila ničesar in ne bo izgubila ničesar«* (*»Мы ничего не потеряли и ничего не потеряем«*). Ta izjava se je v naslednjih letih izkazala za eno najbolj sprevrženih propagandnih manipulacij, saj so bila v »mesnih napadih« izbrisana celotna vojaška krila in uničena življenja stotisočev mladih fantov.
+* **Vir:** Posnetek uradnega nastopa V. Putina / izsek iz preiskovalnega videa.
+* 🔍 **[Povezava do fotografije v polni velikosti](priloge/we_have_lost_nothing.png)**
+
+---
+
+### 🎬 VIDEO DOKUMENTACIJA: Kremeljska retorika proti neskončnim grobovom
+
+#### 🎬 Preiskovalni video: Izjave Kremlja (»Mi nimamo izgub«) proti resničnosti ruskih vojaških pokopališč
+Pretresljiv video neposredno sooči cinične izjave Vladimirja Putina in ruskih generalov z neizprosnim vizualnim stanjem na ruskih pokopališčih:
+
+<iframe src="https://drive.google.com/file/d/1uMpSwVi-02H6gYq5hIFZZXNEpwzM3Kud/preview" width="100%" height="480" allow="autoplay" frameborder="0"></iframe>
+
+* 🔗 **Neposredna povezava (ogled in prenos):** [Ogled videa na Google Drive: »Mi nimamo izgub« proti grobovom mladih vojakov](https://drive.google.com/file/d/1uMpSwVi-02H6gYq5hIFZZXNEpwzM3Kud/view?usp=drive_link)
+* **Ključna sporočilnost posnetka:**
+  * **Uradni cinizem:** Vladimir Putin in poveljniki ruske vojske pred kamerami z nasmeški zagotavljajo domači in tuji javnosti, da vojska *»nima nobenih izgub«* in da se operacija odvija zmagovito ter brez zapletov.
+  * **Brutalna resničnost:** Kamera v posnetku nato brez besed potuje čez neskončne nize svežih grobov mladih ruskih vojakov, prekritih z venci in zastavami, ter obupanih mater, ki jočejo nad izgubljenimi otroki po vsej Rusiji.
+  * **Končno opozorilo gledalcu:** Posnetek se sklene z jasnim, pomenljivim sporočilom:  
+    > **»NE PUSTITE SE ZAVEST«**  
+    To sporočilo gledalca neposredno poziva h kritičnemu razmisleku in razbija iluzijo kremeljske propagande, ki poskuša pred svetom in lastnim narodom prikriti grozljivo ceno imperialnih ambicij.
+
+---
+
+## 8. ZGODOVINSKI REVIZIONIZEM: KAKO KREMELJ DANES OBRAVNAVA STALINA
+
+Da bi razumeli popoln prezir sedanjega ruskega vodstva do človeških življenj in njegovo imperialno agresivnost do sosednjih narodov, je ključno analizirati, kako sodobni Kremelj pod Vladimirjem Putinom obravnava enega najokrutnejših tiranov v človeški zgodovini – **Josifa Visarionoviča Stalina**.
+
+### 1. Od uradne obsodbe zločinov do sistematične državne rehabilitacije
+* **Preobrat v odnosu do totalitarne preteklosti:** Po desetletjih destalinizacije (začetek s Hruščovim leta 1956) ter obsodbi stalinističnih zločinov v času perestrojke in v 90. letih pod Borisom Jelcinom je Putinova oblast sprožila obsežen proces zgodovinskega revizionizma.
+* **Stalin kot »učinkovit menedžer«:** V državnih medijih, javnih nastopih in šolskem sistemu Stalin ni več prikazan kot kruti diktator, ki je pobil na milijone lastnih državljanov, temveč kot *»učinkovit krizni menedžer«* (*эффективный менеджер*). Poudarja se izključno industrializacija, zmaga v Veliki domovinski vojni in pridobitev statusa jedrske velesile. Zločini, montirani procesi, lakota (holodomor v Ukrajini, lakota v Kazahstanu in Rusiji) ter taborišča Gulag se namerno zamolčijo ali pa se cinično opravičujejo kot »nujna cena za obrambo in veličino domovine«.
+* **Vračanje spomenikov Stalinu v javni prostor:** Po vsej Rusiji (od Volgograda do Novosibirska in Velikih Luk) lokalne oblasti znova odkrivajo spomenike in doprsne kipe Stalinu. Pri tem pogosto sodelujejo celo visoki duhovniki Ruske pravoslavne cerkve, ki spomenike blagoslavljajo – kljub zgodovinskemu dejstvu, da je Stalin uničil tisoče cerkva in dal usmrtiti na desettisoče duhovnikov ter menihov.
+
+### 2. Kriminalizacija zgodovinske resnice in uničenje društva »Memorial«
+* **Likvidacija Mednarodnega Memoriala (december 2021):** Vrhunec obračuna z zgodovinsko resnico se je zgodil le dva meseca pred napadom na Ukrajino. Rusko vrhovno sodišče je po nalogu oblasti prepovedalo in likvidiralo *Memorial* – najuglednejšo rusko organizacijo za človekove pravice, ki je več kot tri desetletja zbirala arhive o stalinističnih pobojih in identificirala stotisoče žrtev terorja (leta 2022 je društvo prejelo Nobelovo nagrado za mir). Ruski državni tožilec je na sodišču naravnost dejal, da Memorial *»ustvarja lažno podobo ZSSR kot teroristične države«* in *»omadežuje zgodovinski spomin«*.
+* **Sodni pregon zgodovinarjev:** Zgodovinarji, ki so vztrajali pri raziskovanju stalinističnih grobišč, so bili tarča montiranih sodnih procesov. Zgodovinar **Jurij Dmitrijev**, vodja karelskega Memoriala, ki je v gozdovih odkril morišče Sandarmoh z več kot 9.000 na skrivaj ustreljenimi žrtvami Stalinovega »Velikega terorja« (1937–1938), je bil na podlagi izmišljenih obtožb obsojen na 15 let strogega zapora.
+* **Ponovno zapečatenje arhivov:** Arhivi sovjetske politične policije (Čeka, OGPU, NKVD, KGB), ki so se v 90. letih začeli odpirati, so bili pod Putinovim vodstvom znova neprepustno zaprti za neodvisne raziskovalce, dokumenti o terorju in deportacijah pa ponovno razglašeni za državno skrivnost.
+
+### 3. Novi šolski učbeniki Vladimirja Medinskega in indoktrinacija mladih
+Leta 2023 je rusko ministrstvo za šolstvo uvedlo nov, obvezen enotni državni učbenik zgodovine za srednje šole, ki ga je spisal Putinov svetovalec Vladimir Medinski:
+* **Normalizacija represije:** Učbenik stalinistični teror predstavlja kot zgolj »posledico ostrih geopolitičnih okoliščin«, v katerih je bila potrebna popolna mobilizacija družbe.
+* **Potvarjanje začetka 2. svetovne vojne:** Pakt Molotov-Ribbentrop in skupna nemško-sovjetska vojaška parada v Brest-Litovsku septembra 1939 sta zamolčana ali pa predstavljena kot »genialna poteza sovjetske diplomacije«, napad na Poljsko pa kot »osvobodilni pohod«.
+* **Vzgoja za brezpogojno pokorščino voditelju:** Šolski kurikulum posameznika uči, da je njegova edina dolžnost popolna pokorščina državi in pripravljenost za smrt v imenu voditeljevih geopolitičnih ciljev.
+
+### 4. Zakaj sedanji Kremelj potrebuje kult Stalina?
+Rehabilitacija Stalina je nepogrešljivo ideološko orodje Putinovega režima iz treh ključnih razlogov:
+1. **Razvrednotenje človeškega življenja:** Posameznik in njegova usoda za Kremelj ne pomenita ničesar – državljan je le orodje, topovska hrana (*пушечное мясо*), ki ga avtokrat lahko porabi za imperialno ekspanzijo. To pojasnjuje brezobzirnost, s katero ruski generali v Ukrajini žrtvujejo stotisoče lastnih mladeničev.
+2. **Sindrom »oblegane trdnjave« (*осаждённая крепость*):** Stalinistični model družbe temelji na paranoji pred nenehnimi notranjimi in zunanjimi sovražniki. Vsak kritik vojne ali korupcije je v sodobni Rusiji po stalinističnem zgledu ožigosan za »tujega agenta«, »izdajalca domovine« ali »peto kolono«.
+3. **Zloraba protifašističnega mita za imperialna osvajanja:** Z monopolizacijo zmage nad nacizmom Kremelj vsakogar, ki nasprotuje ruski agresiji ali zahteva lastno neodvisnost (Ukrajinci, evropske demokracije), avtomatično razglasi za »naciste« ali »fašiste«. Zgodovina je tako sprevržena v cinično propagandno orožje za opravičevanje novih vojnih zločinov, etničnega čiščenja in rušenja evropskega miru.
+
+---
+
+## 9. SOOČENJE Z REALNOSTJO: SPOZNAVANJE PROPAGANDNIH LAŽI
+
+V luči teh neizpodbitnih, s fotografijami, videoposnetki, satelitskimi dokazi in preiskavami Združenih narodov ter neodvisnih organizacij potrjenih dejstev postane popolnoma jasno, kako sprevrženi in moralno nevzdržni so narativi, ki so se pojavljali v obravnavani dopisni korespondenci:
 
 | Trditev ruske propagande (Borisova sporočila) | Dokumentirana realnost na terenu (Fakti in mednarodno pravo) |
 | :--- | :--- |
@@ -316,12 +392,22 @@ V luči teh neizpodbitnih, s fotografijami, videoposnetki, satelitskimi dokazi i
 | **»Posebna vojaška operacija (SVO)«** | Cenzurni kremeljski evfemizem za prikrivanje štiriinpolletnega totalnega klanja, urbicida in uničenja celotnih pokrajin z več kot 6,5 milijona begunci. |
 | **»Ukrajinski begunci so privilegiranci«** | Zaničevalno pomanjkanje človeške empatije do mater in otrok, ki so čez noč izgubili svoje domove, može in očete ter se pod točo granat stiskali pod zrušenimi mostovi v Irpinu. |
 | **»Zahod in Ukrajina sta kriva za vojno«** | Klasična inverzija krivde, enaka obtoževanju žrtve napada namesto oboroženega napadalca. Rusija je tista, ki je z vojsko prestopila mednarodno priznano mejo suverene sosede. |
+| **»Ruska vojska nima izgub / vse poteka po načrtu«** | Popolna manipulacija za prikrivanje več kot 600.000 ubitih in ranjenih ruskih vojakov, taktike samomorilskih »mesnih napadov« ter orjaške širitve vojaških pokopališč po vsej Rusiji. Pretresljiv video sooča cinične izjave Putina in generalov z neskončnimi grobovi mladih fantov ter gledalca svari: *»Ne pustite se zavest«*. |
+| **»Stalin je bil rešitelj in je Poljsko le osvobajal« / Kremeljska obravnava Stalina** | Zgodovinski revizionizem: preoblikovanje krutega diktatorja, odgovornega za poboje milijonov lastnih državljanov in pakt s Hitlerjem, v »učinkovitega menedžerja«. Kremelj ukinja društvo *Memorial* in zapira zgodovinarje, ker z metodami stalinističnega terorja in imperializma opravičuje sedanjo agresijo na Ukrajino. |
+
+### 🎬 Video: Soočenje z realnostjo – Kremeljske izjave o »brez izgub« proti resničnosti grobov (»Ne pustite se zavest«)
+
+Kot neposreden vizualni dokaz tega soočenja z realnostjo spodnji videoposnetek razkriva prepad med besedami kremeljskih oblasti in kruto stvarnostjo. V posnetku Vladimir Putin in ruski generali ironično zagotavljajo, da *»ruska vojska nima izgub«*, v ostrem kontrastu pa se zvrstijo neskončni grobovi mladih ruskih vojakov, prekriti z venci in zastavami po vsej Rusiji. Na koncu se izpiše ključno sporočilo in opozorilo: **»Ne pustite se zavest«**.
+
+<iframe src="https://drive.google.com/file/d/1uMpSwVi-02H6gYq5hIFZZXNEpwzM3Kud/preview" width="100%" height="480" allow="autoplay" frameborder="0"></iframe>
+
+* 🔗 **Povezava do videa (Google Drive):** [https://drive.google.com/file/d/1uMpSwVi-02H6gYq5hIFZZXNEpwzM3Kud/view](https://drive.google.com/file/d/1uMpSwVi-02H6gYq5hIFZZXNEpwzM3Kud/view)
 
 Demokratični svet zato enotno vztraja: **pravičen in trajen mir je mogoč le na temeljih mednarodnega prava, umika agresorskih sil z okupiranih ozemelj, varnostnih jamstev za žrtev agresije ter kazenske odgovornosti za vse storjene vojne zločine.**
 
 ---
 
-## 8. NAVIGACIJA PO DOKUMENTACIJI
+## 10. NAVIGACIJA PO DOKUMENTACIJI
 
 * 🏠 **[Glavna stran dokumentacije (README.md)](README.md)**
 * 📊 **[Poročilo o sporočilih Borisa in ruski propagandi](porocilo_propaganda_boris.md)**
@@ -329,3 +415,4 @@ Demokratični svet zato enotno vztraja: **pravičen in trajen mir je mogoč le n
 * 🎬 **[Video posnetki skupne parade v Brest-Litovsku 1939](videos_nemcija_rusija_brest_1939.md)**
 * 🔬 **[Kritična analiza članka »Boj med nacizmom in demokracijo«](analiza_clanka_boj_med_nacizmom_in_demokracijo.md)**
 * 📨 **[Kronološko zbrana sporočila korespondence](zbrana_sporocila.md)**
+
