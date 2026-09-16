@@ -7,12 +7,11 @@
 
 ---
 
-<div style="text-align: center; margin: 28px 0 32px 0;">
-  <img src="assets/edvard_topola.png" alt="Eduard Topol" style="max-width: 580px; width: 100%; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.22); border: 1px solid rgba(0,0,0,0.1);">
-  <p style="font-size: 0.95em; color: #555; margin-top: 10px; font-style: italic;">
-    <strong>Eduard Topol (Edmond Topelberg)</strong> – mednarodno priznani rusko-ameriški pisatelj, scenarist in filmski režiser
-  </p>
-</div>
+#### 📷 Eduard Topol (Edmond Topelberg)
+![Eduard Topol](assets/edvard_topola.png)
+
+* **Portret:** **Eduard Topol (Edmond Topelberg)** – mednarodno priznani rusko-ameriški pisatelj, scenarist in filmski režiser
+* 🔍 **[Povezava do fotografije v polni velikosti](assets/edvard_topola.png)**
 
 ---
 
