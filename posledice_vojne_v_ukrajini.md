@@ -414,5 +414,6 @@ Demokratični svet zato enotno vztraja: **pravičen in trajen mir je mogoč le n
 * 🏛️ **[Poročilo o odgovorih Edvarda in zgodovinskih dejstvih](porocilo_odgovori_edvard.md)**
 * 🎬 **[Video posnetki skupne parade v Brest-Litovsku 1939](videos_nemcija_rusija_brest_1939.md)**
 * 🔬 **[Kritična analiza članka »Boj med nacizmom in demokracijo«](analiza_clanka_boj_med_nacizmom_in_demokracijo.md)**
+* 📜 **[Zakaj Putin ne more ustaviti vojne: Odprto pismo Eduarda Topola](zakaj_putin_ne_more_ustaviti_vojne_v_ukrajini.md)**
 * 📨 **[Kronološko zbrana sporočila korespondence](zbrana_sporocila.md)**
 

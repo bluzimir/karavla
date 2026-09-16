@@ -12,7 +12,7 @@ Dobrodošli v osrednji dokumentaciji analitične preiskave e-poštne koresponden
 
 ## 1. KAZALO DOKUMENTOV IN POROČIL
 
-Celotna analiza in spremljajoča dokumentacija je razdeljena na šest medsebojno povezanih dokumentov:
+Celotna analiza in spremljajoča dokumentacija je razdeljena na sedem medsebojno povezanih dokumentov:
 
 1. 📄 **[Poročilo o sporočilih Borisa in ruski propagandi](porocilo_propaganda_boris.md)** *(spletni ogled: [bluzimir.github.io/karavla/porocilo_propaganda_boris](https://bluzimir.github.io/karavla/porocilo_propaganda_boris))*  
    *Pregled 11 prispelih sporočil pošiljatelja Boris, analiza posredovanih gradiv (članek tržaškega občinskega svetnika, slikovna priloga paktov) ter sistematična primerjava z uradnimi narativi Kremlja z odstotkovno oceno skladnosti.*
@@ -24,7 +24,9 @@ Celotna analiza in spremljajoča dokumentacija je razdeljena na šest medsebojno
    *Forenzična dekonstrukcija 9 manipulativnih tehnik v objavi Primorskega dnevnika (11. 9. 2026, str. 22): orwellianska inverzija realnosti, prevzem kremeljskega cenzurnega besednjaka (SVO), zloraba zamejske manjšinske travme, grobo izkrivljanje časovnice ter faktografske napake.*
 5. 🌍 **[Vojna v Ukrajini: Štiri leta in pol ruske totalne agresije in njene posledice](posledice_vojne_v_ukrajini.md)** *(spletni ogled: [bluzimir.github.io/karavla/posledice_vojne_v_ukrajini](https://bluzimir.github.io/karavla/posledice_vojne_v_ukrajini))*  
    *Celovit pregled stanja vojne skozi oči demokratičnega sveta, mednarodnega prava in OZN: več kot 6,5 milijona beguncev, uničenje mest (Mariupol, Bahmut, Borodjanka, Harkiv), namerni napadi na civiliste in kliniko Ohmatdit, vojni zločini (Buča, Kramatorsk, nalogi ICC), cinična kremeljska propaganda o »brez izgub« ob neskončnih vojaških pokopališčih mladih fantov (preiskovalni video: »Ne pustite se zavest«) ter analiza današnje kremeljske rehabilitacije Stalina in zgodovinskega revizionizma.*
-6. 📨 **[Zbrana e-poštna sporočila in priloge (Boris, Edvard, Jernej)](zbrana_sporocila.md)** *(spletni ogled: [bluzimir.github.io/karavla/zbrana_sporocila](https://bluzimir.github.io/karavla/zbrana_sporocila))*  
+6. 📜 **[Zakaj Putin ne more ustaviti vojne v Ukrajini: Odprto pismo Eduarda Topola](zakaj_putin_ne_more_ustaviti_vojne_v_ukrajini.md)** *(spletni ogled: [bluzimir.github.io/karavla/zakaj_putin_ne_more_ustaviti_vojne_v_ukrajini](https://bluzimir.github.io/karavla/zakaj_putin_ne_more_ustaviti_vojne_v_ukrajini))*  
+   *Odprto pismo svetovno znanega rusko-ameriškega pisatelja in režiserja Eduarda Topola ameriškemu predsedniku Donaldu Trumpu, fotografski portret avtorja, zgodovinska analiza ruskih vojaških travm (dekabristi 1825, 1905, 1917, Afganistan 1989) ter podrobna biografija avtorja.*
+7. 📨 **[Zbrana e-poštna sporočila in priloge (Boris, Edvard, Jernej)](zbrana_sporocila.md)** *(spletni ogled: [bluzimir.github.io/karavla/zbrana_sporocila](https://bluzimir.github.io/karavla/zbrana_sporocila))*  
    *Celotna kronološka zbirka 34 izvirnih e-poštnih sporočil vseh treh ključnih sodelujočih (Boris, Edvard, Jernej) med 3. in 12. septembrom 2026, urejena z doslednim varovanjem zasebnosti (izključno osebna imena brez e-naslovov) ter z vsemi poslanimi prilogami (PDF Primorski dnevnik, slike pogodb, grafi svoboščin).*
 
 > 🌐 **Spletni ogled celotne dokumentacije (GitHub Pages):**  
@@ -126,6 +128,8 @@ Za podroben vpogled v posamezne segmente analize odprite ustrezni dokument prek 
   ➡️ Odprite **[analiza_clanka_boj_med_nacizmom_in_demokracijo.md](analiza_clanka_boj_med_nacizmom_in_demokracijo.md)**
 * Če vas zanima celovit pregled posledic vojne v Ukrajini in stališča demokratičnega sveta:  
   ➡️ Odprite **[posledice_vojne_v_ukrajini.md](posledice_vojne_v_ukrajini.md)**
+* Če vas zanima, zakaj Putin zgodovinsko ne more ustaviti vojne (odprto pismo Eduarda Topola Donaldu Trumpu):  
+  ➡️ Odprite **[zakaj_putin_ne_more_ustaviti_vojne_v_ukrajini.md](zakaj_putin_ne_more_ustaviti_vojne_v_ukrajini.md)**
 * Če želite prebrati celotno izvirno korespondenco in si ogledati vse priloge:  
   ➡️ Odprite **[zbrana_sporocila.md](zbrana_sporocila.md)**
 
