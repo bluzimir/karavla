@@ -6,7 +6,7 @@ layout: noheader
 
 ![Dan suverenosti 2026](dan_suverenosti_2026.jpeg)
 
-> *Odziv na kolumno Branka Sobana: [preberi izvirni tekst (PDF)](Branko%20Soban.pdf)*
+> *Odziv na kolumno Branka Sobana: [preberi izvirni tekst (PDF)](Branko_Soban.pdf)*
 
 ---
 
