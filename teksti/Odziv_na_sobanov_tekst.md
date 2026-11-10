@@ -1,3 +1,7 @@
+---
+layout: noheader
+---
+
 # Kaj je Soban v Kopru videl in česa ni
 
 ![Dan suverenosti 2026](dan_suverenosti_2026.jpeg)
